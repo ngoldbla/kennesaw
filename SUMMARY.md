@@ -32,6 +32,7 @@
 
 * [👷 Internships (US)](work/internships-us.md)
 * [👷♀ Internships (Germany)](work/internships-germany.md)
+* [🔬 Research](work/research.md)
 * [✍ Building a LinkedIn](work/building-a-linkedin.md)
 * [✍ Building a Resume](work/building-a-resume.md)
 * [🇺🇸 Job Search (US)](work/job-search-us.md)
@@ -40,9 +41,9 @@
 
 ## Events
 
+* [🎭 Poetry Contest](events/poetry-contest.md)
 * [🏕 Summer Camp (2023)](events/summer-camp-2023.md)
 * [🫕 Stammtisch](events/stammtisch.md)
-* [🎭 Poetry Contest](events/poetry-contest.md)
 * [🔋 Energy Transition (2022)](events/energy-transition-2022/README.md)
   * [⚡ Stadium Excursion](events/energy-transition-2022/stadium-excursion.md)
   * [🐝 Bee the Buzz](events/energy-transition-2022/bee-the-buzz.md)
@@ -51,6 +52,5 @@
 ## Forms
 
 * [⌨ Apply for an Experience](forms/apply-for-an-experience.md)
-* [🔬 Research](forms/research.md)
 * [📧 Stay Updated](forms/stay-updated.md)
 * [⬇ Downloads](forms/downloads.md)

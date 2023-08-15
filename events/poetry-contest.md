@@ -43,20 +43,20 @@ For questions, or if you’d like resources/ideas, or a mini-workshop in your cl
 
 ## Previous Years
 
-The Georgia German Poetry Contest is an annual event and information about prior years is recorded here.
+The Georgia German Poetry Contest is an annual event and information about prior years is recorded here. This initiative began in the 2008-09 years at KSU and grew to include statewide participation in 2014.
 
 #### 2023: _Umwelt_
 
+#### **2022:** Energiewende (Posters)
+
 #### **2018: Zukunftsvisionen**
+
+#### **2017: Wer die Wahl hat, hat die Qual**
 
 #### **2016:** Deutsch in den USA
 
+#### **2015:** Nahrung
+
 #### **2013:** Feste und Traditionen
 
-#### **2011:** Vergnügungen (Pleasures/Hobbies)&#x20;
-
-#### **2010:**
-
-#### **2009:**
-
-#### **2008:**&#x20;
+#### **2011:** Vergnügungen (Pleasures/Hobbies) / Dinggedichte
