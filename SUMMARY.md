@@ -21,6 +21,7 @@
 * [🍿 Conversation & Pop Culture](explore/conversation-and-pop-culture.md)
 * [📅 German Club](explore/german-club.md)
 * [🏅 German Honor Society](explore/german-honor-society.md)
+* [🗳 Student Council](explore/student-council.md)
 * [🎒 German Convention](explore/german-convention.md)
 * [🏢 Peer Buddy Program](explore/peer-buddy-program.md)
 * [🛂 Study Abroad](explore/study-abroad/README.md)
