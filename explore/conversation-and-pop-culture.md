@@ -31,13 +31,13 @@ Kennesaw State University hosts a [World Languages Resource Collection](https://
 Fall 2023 German Tutoring with [Desiree Bessler](mailto:dbessler@students.kennesaw.edu): Mondays and Wednesdays, 2-3 pm
 {% endhint %}
 
-* [Make a Face-to-Face Appointment](https://outlook.office365.com/owa/calendar/WorldLanguagesResourceCollection2@kennesawedu.onmicrosoft.com/bookings/s/TT32eTkOn0OP0ZsYIwLGGw2)
-* [Make an MS Teams Appointment](https://outlook.office365.com/owa/calendar/WorldLanguagesResourceCollection2@kennesawedu.onmicrosoft.com/bookings/s/gVqoXIDaKkikg1opw-34dQ2)
-* [Meet in the virtual lab](https://teams.microsoft.com/l/channel/19%3aea675708ac5c43ed99d2a590337b6b13%40thread.tacv2/General?groupId=4ce45450-0c37-4248-ac8a-661ea53b6fa1\&tenantId=45f26ee5-f134-439e-bc93-e6c7e33d61c2)
+* [**Make a Face-to-Face Appointment**](https://outlook.office365.com/owa/calendar/WorldLanguagesResourceCollection2@kennesawedu.onmicrosoft.com/bookings/s/TT32eTkOn0OP0ZsYIwLGGw2)
+* [**Make an MS Teams Appointment**](https://outlook.office365.com/owa/calendar/WorldLanguagesResourceCollection2@kennesawedu.onmicrosoft.com/bookings/s/gVqoXIDaKkikg1opw-34dQ2)
+* [**Meet in the virtual lab**](https://teams.microsoft.com/l/channel/19%3aea675708ac5c43ed99d2a590337b6b13%40thread.tacv2/General?groupId=4ce45450-0c37-4248-ac8a-661ea53b6fa1\&tenantId=45f26ee5-f134-439e-bc93-e6c7e33d61c2)
 
 ## Atlanta Metro Area Events
 
-Visit [German Events](https://www.germanevents.org/calendar) for an up-to-date calendar with all German, Austrian, and Swiss events to be hosted in the Atlanta Metro.
+Visit [**German Events**](https://www.germanevents.org/calendar) for an up-to-date calendar with all German, Austrian, and Swiss events to be hosted in the Atlanta Metro.
 
 ## Podcasts <a href="#block-130a812c09e545d583e000313db04a92" id="block-130a812c09e545d583e000313db04a92"></a>
 
