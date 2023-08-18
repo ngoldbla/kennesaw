@@ -4,7 +4,7 @@ description: >-
   German Studies program.
 ---
 
-# 🔬 Research
+# 🔬 Research Assistants
 
 ## First-Year Scholars Program (FYSP)
 
@@ -32,7 +32,7 @@ The following projects have been greenlit and will appear on the First-Year Scho
 
 #### Articles
 
-Goldblatt, Dylan. “The Vitruvian Source of Marvell’s Tortoise in ‘Upon Appleton House, To My Lord Fairfax’,” _South Central Review,_ 36.3, Fall 2019.
+Goldblatt, Dylan. “[The Vitruvian Source of Marvell’s Tortoise in ‘Upon Appleton House, To My Lord Fairfax](https://digitalcommons.kennesaw.edu/facpubs/4580/)’,” _South Central Review,_ 36.3, Fall 2019.
 
 #### Translations
 
@@ -49,5 +49,38 @@ McDonald, William C. “Standing atop a Dying World: Observing a Printer's Devic
 McDonald, William C. “Ars imprimendi libros initium cepit: Remarks of a Lutheran Pastor, Georg Agricola (1554–1630), Concerning the Origin of the Art of Printing in Mainz.” in _Gutenberg-Jahrbuch,_ vol. 91, p. 177-189.
 
 McDonald, William C. “A Certain Sedechias, a Jew by Religion and a Physician by Profession: On the Long Life of an Anti-Jewish Myth” in _Korot:  The Israel Journal of the History of Medicine and Science,_ vol. 23, p. 197-235.
+
+</details>
+
+<details>
+
+<summary>Shane Peterson, Ph.D.</summary>
+
+#### Articles
+
+Ergai, Awatef, Shane D. Peterson, Ginny Zhan, and Sabine Smith. “Advancing Intercultural\
+Communication Skills in Diverse Teams:  An Intervention Program for Project-Based Engineering Courses.” _Journal of Higher Education Theory and Practice_ 23.10 (2023): 120-136.
+
+Peterson, Shane D. “The Contested Status of Illustrated Literature (1860-1890).” _Colloquia Germanica_ 49.2-3 (2016 \[2018]): 259-82.
+
+Peterson, Shane D. “Projection Spaces: Manifestations of the Alpine in the Reception of the Austrian _Heimatfilm Echo der Berge_ (1954) and of the Vienna Flak Towers.” _Austrian Studies_ 18 (2010): 124-40.
+
+#### Book Chapters
+
+Peterson, Shane D. “Illustrated Editions of Novels as Marketing Strategy: The Case of Wilhelm Raabe.” _Market Strategies and German Literature in the Long Nineteenth Century_, eds. Vance Byrd & Ervin Malakaj. De Gruyter, 2020. 269-305.
+
+Peterson, Shane D. “Intranational Migration – The Search for Postwar Austrian _Heimat_ in « Echo der Berge »(1954).” _Imaginäre Topographien: Migration und Verortung_, eds. Klaus Müller-Richter and Ramona Uritescu-Lombard. Bielefeld: Transcript, 2007. 127-42.
+
+#### Refereed Conference Proceedings
+
+Ergai, Awatef, Shane D. Peterson, Ginny Zhan, and Sabine Smith. [“Improving Communication Skills in Global Engineers: Adapting the UNESCO Story Circles Method in an Undergraduate Engineering Course.”](https://peer.asee.org/40608) American Society for Engineering Education. _2022 Annual Conference & Exposition_.&#x20;
+
+#### Textbooks
+
+Peterson, Shane D., Sabine Smith, Dylan Goldblatt, and Susanne Estrella. [“der und mehr”:](https://alg.manifoldapp.org/projects/der-und-mehr) An Online, Open-Source German Language Textbook.
+
+#### Undergraduate Research Mentorship
+
+Faculty Mentor, First-Year Scholars Program, “Measuring German Vocabulary Learning,” 2020-21.
 
 </details>
