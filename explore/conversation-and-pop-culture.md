@@ -27,11 +27,13 @@ Each semester the German Studies program offers a weekly conversation hour known
 
 Kennesaw State University hosts a [World Languages Resource Collection](https://radow.kennesaw.edu/wlrc/index.php) (WLRC) in Pilcher Hall, Room 134. This newly renovated language lab is a state-of-the-art facility for language learners and we can't wait to spend time with you there! The German tutor will be present for drop-in face-to-face or remote sessions at the language lab in Fall 2023 according to the following schedule.&#x20;
 
-```
-Fall 2023 German Tutoring with Desiree: Mondays and Wednesdays, 2-3 pm
-```
+{% hint style="success" %}
+Fall 2023 German Tutoring with [Desiree Bessler](mailto:dbessler@students.kennesaw.edu): Mondays and Wednesdays, 2-3 pm
+{% endhint %}
 
-If you have any questions, please let [Patricia Tilbian](mailto:ptilbian@kennesaw.edu) in the WLRC know.
+* [Make a Face-to-Face Appointment](https://outlook.office365.com/owa/calendar/WorldLanguagesResourceCollection2@kennesawedu.onmicrosoft.com/bookings/s/TT32eTkOn0OP0ZsYIwLGGw2)
+* [Make an MS Teams Appointment](https://outlook.office365.com/owa/calendar/WorldLanguagesResourceCollection2@kennesawedu.onmicrosoft.com/bookings/s/gVqoXIDaKkikg1opw-34dQ2)
+* [Meet in the virtual lab](https://teams.microsoft.com/l/channel/19%3aea675708ac5c43ed99d2a590337b6b13%40thread.tacv2/General?groupId=4ce45450-0c37-4248-ac8a-661ea53b6fa1\&tenantId=45f26ee5-f134-439e-bc93-e6c7e33d61c2)
 
 ## Atlanta Metro Area Events
 
