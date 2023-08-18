@@ -22,11 +22,35 @@ layout:
 
 # 🛂 Study Abroad
 
+## Information Sessions
+
+Join a session with Dr. Sabine Smith in Fall 2023 to discuss opportunities in Spring & Summer 2024. Come to ask questions about length of study, course credits, work & study abroad choices, housing opportunities, and stipends.
+
+In-Person and Virtual Info Sessions are available via Zoom (# 852 5787 9656) with the password: InfoGer23. You can also contact Dr. Smith to get more details via [email](mailto:ssmith2@kennesaw.edu) or via phone (470-578-6366).
+
+<figure><img src="../../.gitbook/assets/Pilcher 204 Map.png" alt=""><figcaption><p>Pilcher 204 Map</p></figcaption></figure>
+
+### Info Session Calendar
+
+Find a date and time that work best for your schedule below. You may also add these dates to your personal calendar to help you find a good time to drop in. Pilcher 204 is upstairs near the front desk of the Department of World Languages and Cultures.
+
+* August 22nd, in Pilcher 204,  3:30-4:45 PM
+* September 6th, in Pilcher 204,  3:30-4:45 PM
+* September 28th, in Pilcher 204,  3:30-4:45 PM
+* October 10th, in Pilcher 204,  3:30-4:45 PM
+* October 25th, in Pilcher 204,  3:30-4:45 PM
+* November 14th, in Pilcher 204,  3:30-4:45 PM
+* November 29th, in Pilcher 204,  3:30-4:45 PM
+
+
+
 ## Experiential Learning
 
 This is the key experience for students of German. KSU offers several ways to spend a semester or year in Germany. For students who take German culture and language seriously, study abroad is essential. Spending an academic year in Germany will help with your studies more than anything else. It is affordable and can fit into most students’ schedules with a bit of early planning. Talk to your German professors and the Education Abroad office to learn more.
 
 Of course, students can complete a German major without this experience. But this situation is far from ideal. Studying abroad makes the culture come alive; an extended stay in a German-speaking environment makes speaking the language feel much more comfortable and natural. At graduation, many German majors reflect that studying abroad helped them grow as individuals and become independent like nothing ever before. More than anything else, study abroad will help you succeed in mastering German. It is essential.
+
+## Pro Tips
 
 Here are tips for making the most of your study abroad experience and using it to achieve your goals as a German major:
 
