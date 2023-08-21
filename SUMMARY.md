@@ -31,9 +31,9 @@
 
 ## Work
 
+* [🔬 Research Projects](work/research-projects.md)
 * [👷 Internships (US)](work/internships-us.md)
 * [👷♀ Internships (Germany)](work/internships-germany.md)
-* [🔬 Research Projects](work/research-projects.md)
 * [✍ Building a LinkedIn](work/building-a-linkedin.md)
 * [✍ Building a Resume](work/building-a-resume.md)
 * [🇺🇸 Job Search (US)](work/job-search-us.md)
