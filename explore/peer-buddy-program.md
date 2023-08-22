@@ -12,10 +12,10 @@ Michelle introduces the Peer Buddy Program
 
 ## Overview <a href="#block-b487c7e6b3144b84a03f6e98ab5af1c1" id="block-b487c7e6b3144b84a03f6e98ab5af1c1"></a>
 
-* **Compensation**. Payment is $300 for full contracts or $150 for partial contracts. The rate is approximately $20 per hour.
-* **Duties**. Students will craft a brief personal profile, in-class presentation, conversation schedule, and time log.
-* **Contracts**. Partial contract participants meet for six conversation hours. Full contracts add Friday meetings (10:30-12).
-* **Timeline**. Apply by the third week of the semester to participate this semester.
+* **Compensation**. Payment is $400 for full contracts (at min 30 hours over 6 weeks) or $200 for partial contracts. The rate is approximately $13 per hour.
+* **Duties**. Students craft a brief personal profile, assist our German visitors upon arrival in mid-March, join in on site visits (as time and schedule allow), give an in-class presentation on the experience, and submit a time log at the end.
+* **Contracts**. You make a commitment when you sign a contract, but you can change from full to partial contract and from partial to full contract as appropriate and documented via time log.
+* **Timeline**. Apply by the third week of Spring semester to participate this semester.
 
 ## Application <a href="#block-d9c46f9f51f34fc6beb5985e5c2c17da" id="block-d9c46f9f51f34fc6beb5985e5c2c17da"></a>
 
@@ -25,7 +25,7 @@ Michelle introduces the Peer Buddy Program
 
 ## Description <a href="#block-d9c46f9f51f34fc6beb5985e5c2c17da" id="block-d9c46f9f51f34fc6beb5985e5c2c17da"></a>
 
-For six weeks this semester you can serve as a "Peer Buddy" to approximately two Germans your age, selected by our grant-funding partners, the Herz Foundation of Hamburg, Germany. In weekly video conversations, supported with guidelines and prompts to not make it awkward, you learn about each other’s personal and professional lives and about German and US American culture. No special knowledge is necessary - just a willingness to help these Germans practice English and make friends!
+For six weeks this semester you can serve as a "Peer Buddy" or "Suitemate" (you room with them in a hotel at no cost to you) to approximately two Germans your age, selected by our grant-funding partners, the Herz Foundation of Hamburg, Germany. In being their friend and KSU liaison, supported with guidelines and prompts to not make it awkward, you learn about each other’s personal and professional lives and about German and US American culture. No special knowledge is necessary - just a willingness to help these Germans practice English and make friends!
 
 <figure><img src="../.gitbook/assets/24D84298-77C4-4CD4-9704-F04B4EBB9CB4.png" alt=""><figcaption></figcaption></figure>
 
