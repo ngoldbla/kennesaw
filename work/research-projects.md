@@ -8,13 +8,29 @@ description: >-
 
 ## First-Year Scholars Program (FYSP)
 
-This program provides stipends and research training for undergraduates at KSU. There will be an Open House for students to learn more about undergraduate research on September 7th from 3:30pm to 5:30pm. All students are welcome, regardless of whether they are currently undergraduate researchers or not! There will be food, games, and prizes!&#x20;
-
-For students interested in the program, applications will open on Wednesday, August 23rd. On that date, students will be able to peruse opportunities at KSU for working with a faculty member in the First-Year Scholars Program. **The deadline for applications is September 13th**.
+This program provides stipends and research training for undergraduates at KSU. For students interested in the program, you may submit an application through the Office of Undergraduate Research starting August 23rd, and the deadline for applications is September 13th.
 
 {% hint style="info" %}
-For more information, visit the [First-Year Scholars Program](https://research.kennesaw.edu/our/first-year-scholars/2023-2024-projects/index.php) website.
+[Click here for information](https://research.kennesaw.edu/our/first-year-scholars/2023-2024-projects/index.php) about the First-Year Scholars Program.
 {% endhint %}
+
+The application requirements for FYSP are as follows:
+
+### Application Requirements
+
+* Students must be in their first year of college at KSU with fewer than 30 transfer credits (not including AP and dual enrollment credits).
+* To remain in the First-Year Scholars Program in the Spring, students must be enrolled in classes and in good academic standing.
+* To receive stipend payments each semester, students in the First-Year Scholars Program are expected to participate in mandatory orientation meetings, as well as attend events and/or workshops hosted by the Office of Undergraduate Research and Peer Mentors.
+* The project will be presented at the Symposium of Student Scholars in April.
+* Progress Reports and end of semester evaluation forms will be submitted on time to the Office of Undergraduate Research.
+
+If you have any questions regarding these requirements, please email [our@kennesaw.edu](mailto:our@kennesaw.edu)
+
+{% hint style="info" %}
+[Click here to start your application](https://forms.office.com/Pages/ResponsePage.aspx?id=5W7yRTTxnkO8k-bH4z1hwhdLywYqCMxNoBO3FAtCMJZUNFk2VTJYSFlLWVdFRVFFOVRaUU1BQUQ4MiQlQCN0PWcu) for the First-Year Scholars Program.
+{% endhint %}
+
+There will be an **Open House** for students to learn more about undergraduate research on **September 7th from 3:30pm to 5:30pm** (in Academic Learning Center, suite 5500). All students are welcome, regardless of whether they are currently undergraduate researchers or not! There will be food, games, and prizes!&#x20;
 
 ### Project Previews, 2023-24
 
