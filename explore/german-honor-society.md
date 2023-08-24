@@ -38,3 +38,27 @@ Once your application has been reviewed and accepted, your financial obligations
 > The **Honors Induction Ceremony** will be held in person on **Thursday October 19th at 2 PM.** (Location to be determined)
 
 For questions and more information visit Delta Phi Alpha’s website [http://deltaphialpha.org/](http://deltaphialpha.org/) or contact the KSU chapter advisors: Sabine Smith at [ssmith2@kennesaw.edu](mailto:ssmith2@kennesaw.edu) & Dylan Goldblatt [ngoldbla@kennesaw.edu](mailto:ngoldbla@kennesaw.edu).
+
+## Gallery
+
+<div>
+
+<figure><img src="../.gitbook/assets/Picture6.png" alt="" width="563"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Picture7.png" alt="" width="452"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Picture8.png" alt="" width="402"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Picture9.png" alt="" width="152"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Picture10.png" alt="" width="150"><figcaption></figcaption></figure>
+
+</div>
