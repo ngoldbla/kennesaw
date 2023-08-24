@@ -55,3 +55,7 @@
 * [⌨ Apply for an Experience](forms/apply-for-an-experience.md)
 * [📧 Stay Updated](forms/stay-updated.md)
 * [⬇ Downloads](forms/downloads.md)
+
+***
+
+* [🎨 Design Contest](design-contest.md)

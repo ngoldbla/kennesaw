@@ -27,13 +27,14 @@ layout:
 
 ## Fall 2023 Updates
 
-* Special welcome to the new WLRC German Tutor, Desiree! [Schedule a visit today](explore/conversation-and-pop-culture.md)!
-* [Kaffeestunde](explore/conversation-and-pop-culture.md) is meeting Thursdays 12:30-1:30 pm in the Starbucks on the 1st floor of the Social Sciences Building, starting August 31, 2023.
-* The [Annual Georgia German Poetry Contest](events/poetry-contest.md) is live and there are cash prizes.
-* [German Honor Society](explore/german-honor-society.md) is accepting applications now for Fall 2023 inductions.
-* Fall 2023 will inaugurate the first cohort of elections to the [German Student Council](explore/student-council.md).
-* The [2024 Maymester in Italy Program](https://kennesaw.studioabroad.com/index.cfm?FuseAction=Programs.ViewProgramAngular\&id=10426) is now accepting applications.
-* KSU students interested in undergraduate research should visit the [Open House](https://research.kennesaw.edu/our/open-house.php). Refreshments provided and all are welcome! September 7, 2023 from 3:30pm to 5:30 pm in Academic Learning Center, suite 5500. [RSVP today](https://forms.office.com/Pages/ResponsePage.aspx?id=5W7yRTTxnkO8k-bH4z1hwhdLywYqCMxNoBO3FAtCMJZUNlJRQkhFTzI2MzdPV1RSSktKR1pYQldSUyQlQCN0PWcu)!
+* **Tutoring.** Special welcome to the new WLRC German Tutor, Desiree! [Schedule a visit today](explore/conversation-and-pop-culture.md)!
+* **Conversation.** [Kaffeestunde](explore/conversation-and-pop-culture.md) is meeting Thursdays 12:30-1:30 pm in the Starbucks on the 1st floor of the Social Sciences Building, starting August 31, 2023.
+* **Contest.** The [Annual Georgia German Poetry Contest](events/poetry-contest.md) is live and there are cash prizes.
+* [**German Honor Society**](explore/german-honor-society.md) is accepting applications now for Fall 2023 inductions. Deadline, October 1, 2023. The induction ceremony is scheduled for October 19, 2023 at 2:00 pm in Pilcher 204.
+* **Election.** Fall 2023 will inaugurate the first cohort of elections to the [German Student Council](explore/student-council.md).
+* **Study Abroad (Italy).** The [2024 Maymester in Italy Program](https://kennesaw.studioabroad.com/index.cfm?FuseAction=Programs.ViewProgramAngular\&id=10426) is now accepting applications.
+* **Research.** KSU students interested in undergraduate research should visit the [Open House](https://research.kennesaw.edu/our/open-house.php). Refreshments provided and all are welcome! September 7, 2023 from 3:30pm to 5:30 pm in Academic Learning Center, suite 5500. [RSVP today](https://forms.office.com/Pages/ResponsePage.aspx?id=5W7yRTTxnkO8k-bH4z1hwhdLywYqCMxNoBO3FAtCMJZUNlJRQkhFTzI2MzdPV1RSSktKR1pYQldSUyQlQCN0PWcu)!
+* **Contest.** Design the perfect KSU German Club T-Shirt and win a prize.
 
 {% content-ref url="forms/stay-updated.md" %}
 [stay-updated.md](forms/stay-updated.md)
