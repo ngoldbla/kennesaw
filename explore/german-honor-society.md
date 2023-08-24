@@ -1,6 +1,11 @@
-# 🏅 German Honor Society
+---
+description: >-
+  Kennesaw German Studies students can apply to the KSU chapter of the Delta Phi
+  Alpha National German Honor Society. Learn more about the details of this
+  process and the benefits of induction.
+---
 
-Kennesaw German Studies students can apply to the KSU chapter of the Delta Phi Alpha National German Honor Society. Learn more about the details of this process and the benefits of induction.
+# 🏅 German Honor Society
 
 <figure><img src="../.gitbook/assets/01-h_kynqr40n.jpg" alt=""><figcaption><p>KSU German Studies students at The Halle Foundation in Buckhead, GA.</p></figcaption></figure>
 
@@ -41,24 +46,12 @@ For questions and more information visit Delta Phi Alpha’s website [http://del
 
 ## Gallery
 
-<div>
+<figure><img src="../.gitbook/assets/IMG_3343.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Picture6.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/IMG_2625.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
- 
+<figure><img src="../.gitbook/assets/IMG_3341.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Picture7.png" alt="" width="452"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/IMG_2662.JPG" alt="" width="375"><figcaption></figcaption></figure>
 
- 
-
-<figure><img src="../.gitbook/assets/Picture8.png" alt="" width="402"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Picture9.png" alt="" width="152"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Picture10.png" alt="" width="150"><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../.gitbook/assets/IMG_3348.jpg" alt="" width="375"><figcaption></figcaption></figure>
