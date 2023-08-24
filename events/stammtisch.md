@@ -16,7 +16,9 @@ The German word _Stammtisch_ means a table for regulars and such tables are typi
 
 ### When is the next Stammtisch? <a href="#block-028f3039b67a45029fbcd286495eadca" id="block-028f3039b67a45029fbcd286495eadca"></a>
 
-Our next Stammtisch is currently in planning! Join the KSU German Club if you’d like to contribute and/or help organize our next event!
+Our next Stammtisch is scheduled for September 12, 2023 from 6-8 pm at Mellow Mushroom [near the Kennesaw campus!](#user-content-fn-1)[^1] Join the KSU German Club if you’d like to contribute and/or help organize our next event!
+
+<figure><img src="../.gitbook/assets/Picture3.png" alt=""><figcaption></figcaption></figure>
 
 ### Recent Stammtisch Events <a href="#block-f5f3153b1e4a411199b386fef6146679" id="block-f5f3153b1e4a411199b386fef6146679"></a>
 
@@ -27,3 +29,5 @@ Our next Stammtisch is currently in planning! Join the KSU German Club if you’
 * Cracker Barrel, October 21, 2021
 * Mellow Mushroom, September 23, 2021
 * Sweet Hut, February 19, 2020
+
+[^1]: 1133 Chastain Rd, Kennesaw, GA 30144

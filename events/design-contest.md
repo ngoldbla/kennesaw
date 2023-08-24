@@ -20,6 +20,6 @@ After sufficient time and entries we will host a voting session for these artwor
 
 ## Student Submissions
 
-<figure><img src=".gitbook/assets/ClubPicture2b.jpg" alt=""><figcaption><p>Submission 01, Madita Bergmann</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ClubPicture2b.jpg" alt=""><figcaption><p>Submission 01, Madita Bergmann</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/ClubPicture1b.png" alt=""><figcaption><p>Submission 02, Madita Bergmann</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ClubPicture1b.png" alt=""><figcaption><p>Submission 02, Madita Bergmann</p></figcaption></figure>

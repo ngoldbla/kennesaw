@@ -43,8 +43,9 @@
 ## Events
 
 * [🎭 Poetry Contest](events/poetry-contest.md)
-* [🏕 Summer Camp (2023)](events/summer-camp-2023.md)
+* [🎨 Design Contest](events/design-contest.md)
 * [🫕 Stammtisch](events/stammtisch.md)
+* [🏕 Summer Camp (2023)](events/summer-camp-2023.md)
 * [🔋 Energy Transition (2022)](events/energy-transition-2022/README.md)
   * [⚡ Stadium Excursion](events/energy-transition-2022/stadium-excursion.md)
   * [🐝 Bee the Buzz](events/energy-transition-2022/bee-the-buzz.md)
@@ -55,7 +56,3 @@
 * [⌨ Apply for an Experience](forms/apply-for-an-experience.md)
 * [📧 Stay Updated](forms/stay-updated.md)
 * [⬇ Downloads](forms/downloads.md)
-
-***
-
-* [🎨 Design Contest](design-contest.md)
