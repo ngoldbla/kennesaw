@@ -33,7 +33,7 @@ This program provides stipends and research training for undergraduates at KSU. 
 
 The application requirements for FYSP are as follows:
 
-### Application Requirements
+### Eligibility
 
 * Students must be in their first year of college at KSU with fewer than 30 transfer credits (not including AP and dual enrollment credits).
 * To remain in the First-Year Scholars Program in the Spring, students must be enrolled in classes and in good academic standing.
@@ -49,11 +49,65 @@ If you have any questions regarding these requirements, please email [our@kennes
 
 There will be an **Open House** for students to learn more about undergraduate research on **September 7th from 3:30pm to 5:30pm** (in Academic Learning Center, suite 5500). All students are welcome, regardless of whether they are currently undergraduate researchers or not! There will be food, games, and prizes!&#x20;
 
-### Research Labs in World Languages and Cultures
+## Goldblatt Lab
 
-Our program will host the following First-Year Scholars Program projects. The number of spots is limited. Language knowledge is not required.
+{% tabs %}
+{% tab title="About" %}
+#### Primary Investigator: Dr. Dylan Goldblatt
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Dr. Dylan Goldblatt</td><td>Artificial Intelligence and Large Language Models as Learning Supports for Second Language Acquisition</td><td>Up to 5 Members</td><td><a href="../.gitbook/assets/mohamed-nohassi-3ihil3w85-4-unsplash.jpg">mohamed-nohassi-3ihil3w85-4-unsplash.jpg</a></td></tr></tbody></table>
+Relevant Prior Work
+
+1. Dr. Goldblatt has delivered lectures and hosted training workshops for faculty and graduate   instructors on a variety of topics that concern the integration of technology and teaching at the post-secondary level. In 2013, Dr. Goldblatt designed and delivered three digital pedagogy workshops: “Ideas in Digital Pedagogy: Gamification, ePortfolios, and Media Workflows,” “Digital Grade books: Best Practices for Calculation, Reporting, and Submission,” and “Introduction to Digital Learning Management for German Language Instruction” for faculty and graduate students at the University of Virginia.
+2. Dr. Goldblatt’s scholarly work on topics relating to narrative, German cinema, and interactive media provide him with expertise that will benefit the development and analysis of hypermedia for this project. In 2014, Dr. Goldblatt was invited to chair a panel entitled, “Interactive Digital Narratives,” at the Annual Meeting of the International Conference on Narrative at the Massachusetts Institute of Technology. He also delivered a presentation at that conference entitled, “First Encounters of the Cinematic Kind,” in which he outlines a newly developed theory of mediated encounter for critical application.
+3. Dr. Goldblatt has worked with his doctoral advisor as a collaborator on the iterative improvement of two pedagogical innovations that integrate off-the-shelf technologies into second language learning environments. These innovations involve the use of abbreviated e-mail drafting for stylistic training in a foreign language and web-based articles for training reading comprehension in a foreign language. The results of these research projects have been published in two articles.\
+   \- McDonald, W.C. (2009). “Using the E-Mail Précis for Advanced Learners: Teacher-Student Interactions.” The Internet TESL Journal, Vol. XV, No. 2.\
+   \- McDonald, W.C. (2007). “Redacting Short-Texts (IST) to Improve Second-Language German Writing Skills.” GFL (=German as a Foreign Language), Vol. 3, pp. 91-119.
+4. Dr. Goldblatt has collaborated extensively on academic projects that open and digitize language learning and instruction.\
+   \- Peterson, Shane, Sabine H. Smith, Dylan Goldblatt, Susanne Estrella. _Der und mehr._ Open Textbooks, ALG, 2020. Available via [https://alg.manifoldapp.org/projects/der-und-mehr](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Falg.manifoldapp.org%2Fprojects%2Fder-und-mehr\&data=05%7C01%7Cngoldbla%40kennesaw.edu%7Cda27d8d04078490416e808dba1ba73c8%7C45f26ee5f134439ebc93e6c7e33d61c2%7C1%7C0%7C638281594400850457%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C\&sdata=srHp9v2FA%2BQaIvBUVsmSjJUTzJ1SgddYotCgUaTSI%2Fw%3D\&reserved=0)\
+   \- Applicant as Co-PI for NSF 14-526 (i.e. Cyberlearning)
+{% endtab %}
+
+{% tab title="Project" %}
+#### **Artificial Intelligence (AI) and Large Language Models (LLM) as Learning Supports for Second Language Acquisition (SLA)**
+
+This undergraduate research project will explore the potential applications of artificial intelligence (AI) and large language models (LLMs) to support second language learning and instruction. As AI and natural language processing advance rapidly, there is great interest in how these technologies could be leveraged to enhance language learning outcomes and experiences. Our team of undergraduate researchers from linguistics and literature backgrounds will conduct a literature review, propose use cases, and potentially build prototypes to demonstrate the value of AI/LLMs in this domain.
+
+{% tabs %}
+{% tab title="Project" %}
+####
+{% endtab %}
+
+{% tab title="Description" %}
+
+{% endtab %}
+{% endtabs %}
+{% endtab %}
+
+{% tab title="Duties" %}
+Weekly duties will vary by project phase. Students can expect to participate in the following:
+
+1. Background research on AI/LLMs and their capabilities for language tasks
+2. Literature review on existing work applying AI/LLMs to language learning
+3. Brainstorming and prototyping possible AI applications and learning interactions
+4. User testing and evaluation of prototypes (time permitting)
+5. Analysis and writeup of findings
+6. Preparation of conference presentation.
+{% endtab %}
+
+{% tab title="Outcomes" %}
+Students will conduct this start-to-finish research project and in doing so will build valuable skills for in project management, analysis, software development, language assessment, critical thinking, communication, and collaboration. These include:
+
+Content-Based Outcomes - definitions of LLM/AI terms, improved understanding of linguistics; understanding of prior work through literature review, articulation of the study and its contributions to the field.
+
+Skill-Based Outcomes - design a study to answer a research question, develop a hypothesis, write a research paper, present their research to an audience (e.g., poster)
+{% endtab %}
+
+{% tab title="Stipends" %}
+Undergraduates in the First-Year Scholars Program can earn stipends for up to $1,000 for the first academic year in the lab. There is an additional extension program that students can apply for, and that extension is granted based on successful completion of all project milestones in the first year.
+{% endtab %}
+{% endtabs %}
+
+
 
 
 
