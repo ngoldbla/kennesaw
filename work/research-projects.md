@@ -2,6 +2,23 @@
 description: >-
   Overview of the undergraduate and faculty research projects within the KSU
   German Studies program.
+cover: >-
+  https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxyZXNlYXJjaHxlbnwwfHx8fDE2OTI5ODEwNjB8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🔬 Research Projects
@@ -11,7 +28,7 @@ description: >-
 This program provides stipends and research training for undergraduates at KSU. For students interested in the program, you may submit an application through the Office of Undergraduate Research starting August 23rd, and the deadline for applications is September 13th.
 
 {% hint style="info" %}
-[Click here for information](https://research.kennesaw.edu/our/first-year-scholars/2023-2024-projects/index.php) about the First-Year Scholars Program.
+[**Click here for information**](https://research.kennesaw.edu/our/first-year-scholars/2023-2024-projects/index.php) about the First-Year Scholars Program.
 {% endhint %}
 
 The application requirements for FYSP are as follows:
@@ -27,14 +44,14 @@ The application requirements for FYSP are as follows:
 If you have any questions regarding these requirements, please email [our@kennesaw.edu](mailto:our@kennesaw.edu)
 
 {% hint style="info" %}
-[Click here to start your application](https://forms.office.com/Pages/ResponsePage.aspx?id=5W7yRTTxnkO8k-bH4z1hwhdLywYqCMxNoBO3FAtCMJZUNFk2VTJYSFlLWVdFRVFFOVRaUU1BQUQ4MiQlQCN0PWcu) for the First-Year Scholars Program.
+[**Click here to start your application**](https://forms.office.com/Pages/ResponsePage.aspx?id=5W7yRTTxnkO8k-bH4z1hwhdLywYqCMxNoBO3FAtCMJZUNFk2VTJYSFlLWVdFRVFFOVRaUU1BQUQ4MiQlQCN0PWcu) for the First-Year Scholars Program.
 {% endhint %}
 
 There will be an **Open House** for students to learn more about undergraduate research on **September 7th from 3:30pm to 5:30pm** (in Academic Learning Center, suite 5500). All students are welcome, regardless of whether they are currently undergraduate researchers or not! There will be food, games, and prizes!&#x20;
 
-### Project Previews, 2023-24
+### Research Labs in World Languages and Cultures
 
-The following projects have been greenlit and will appear on the First-Year Scholars Program website when it goes live. The number of spots is limited. Language-specific knowledge is not required unless specified.
+Our program will host the following First-Year Scholars Program projects. The number of spots is limited. Language knowledge is not required.
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Dr. Dylan Goldblatt</td><td>Artificial Intelligence and Large Language Models as Learning Supports for Second Language Acquisition</td><td>Up to 5 Members</td><td><a href="../.gitbook/assets/mohamed-nohassi-3ihil3w85-4-unsplash.jpg">mohamed-nohassi-3ihil3w85-4-unsplash.jpg</a></td></tr></tbody></table>
 
