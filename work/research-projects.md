@@ -24,6 +24,12 @@ layout:
 
 # 🔬 Research Projects
 
+## Welcome!
+
+{% embed url="https://www.youtube.com/watch?v=y_yMMXo9jKo" %}
+Introduction Video
+{% endembed %}
+
 ## Join our Research Lab
 
 {% tabs %}
