@@ -24,8 +24,6 @@ layout:
 
 # 🔬 Research Projects
 
-
-
 ## Join our Research Lab
 
 {% tabs %}
@@ -63,7 +61,7 @@ Weekly duties will vary by project phase. Students can expect to participate in 
 
 **Funding**
 
-Undergraduates in the First-Year Scholars Program earn stipends for up to $1,000 for the first academic year in the lab. There is an additional extension program that students can apply for, and that extension is granted based on successful completion of all project milestones in the first year.
+Undergraduates in the First-Year Scholars Program earn stipends for **up to $2,000** for the first academic year in the lab. There is an additional extension program that students can apply for, and that extension is granted based on successful completion of all project milestones in the first year.
 
 **Outcomes**
 
