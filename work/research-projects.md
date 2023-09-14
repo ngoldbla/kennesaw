@@ -81,13 +81,9 @@ Skill-Based Outcomes - design a study to answer a research question, develop a h
 * The project will be presented at the Symposium of Student Scholars in April.
 * Progress Reports and end of semester evaluation forms will be submitted on time to the Office of Undergraduate Research.
 
-### Open House
-
-There will be an **Open House** for students to learn more about undergraduate research on **September 7th from 3:30pm to 5:30pm** (in Academic Learning Center, suite 5500). All students are welcome, regardless of whether they are currently undergraduate researchers or not! There will be food, games, and prizes!&#x20;
-
 ### How to Apply
 
-The Officer of Undergraduate Research at KSU provides stipends in support of research training for first year students who meet certain criteria. Applications to work with specific labs go through the Office of Undergraduate Research.&#x20;
+The Officer of Undergraduate Research at KSU provides stipends in support of research training for first year students who meet certain criteria. Applications to work with specific labs go through the Office of Undergraduate Research. _If you are reading this on or after September 14, 2023, please be aware that the deadline for applications to the First-Year Scholars Program has passed._
 
 {% hint style="success" %}
 [**Click here for information**](https://research.kennesaw.edu/our/first-year-scholars/2023-2024-projects/index.php) about the First-Year Scholars Program from KSU's OUR.
