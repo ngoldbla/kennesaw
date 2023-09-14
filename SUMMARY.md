@@ -54,5 +54,6 @@
 ## Forms
 
 * [⌨ Apply for an Experience](forms/apply-for-an-experience.md)
+* [🗣 Chat with Native Speakers](forms/chat-with-native-speakers.md)
 * [📧 Stay Updated](forms/stay-updated.md)
 * [⬇ Downloads](forms/downloads.md)
