@@ -47,7 +47,15 @@ The Primary Investigator (PI) of the OWLLM Lab is Dr. Dylan Goldblatt.
 * Opened and digitized language learning through projects like the open textbook _Der und mehr_ (2020) and as Co-PI on an NSF Cyberlearning grant application
 {% endtab %}
 
-{% tab title="Students" %}
+{% tab title="Team" %}
+The OWLLLM Lab is pleased to welcome the following First-Year Scholars in AY 2023-24:
+
+* Daisi S
+* Chloe J
+* Cheryl N
+{% endtab %}
+
+{% tab title="Highlights" %}
 **Responsibilities**
 
 Weekly duties will vary by project phase. Students can expect to participate in the following:
