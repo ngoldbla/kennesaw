@@ -1,8 +1,4 @@
 ---
-description: >-
-  Faculty and Undergraduates in our program collaborate on original scholarship.
-  Consider joining a faculty research lab or working with a mentor toward your
-  career goals.
 cover: >-
   https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxyZXNlYXJjaHxlbnwwfHx8fDE2OTI5ODEwNjB8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -24,7 +20,21 @@ layout:
 
 # 🔬 Research Projects
 
-## Join the OWLLLM Lab
+## Apply to a Research Lab
+
+Faculty and Undergraduates in our program collaborate on original scholarship. Consider joining a faculty research lab or working with a mentor toward your career goals. Find the research lab and project that interests you the most and submit your application or express your interest today!
+
+{% hint style="success" %}
+### OWLLLM (**O**ptimizing **W**ord **L**earning via **L**arge **L**anguage **M**odels) <a href="#owlllm" id="owlllm"></a>
+{% endhint %}
+
+{% hint style="success" %}
+### OWLS-CARE (**O**ptimizing **W**ith **L**eadership **S**kills: **C**areer **A**dvancement **R**esources **E**xplored) <a href="#owls-care" id="owls-care"></a>
+{% endhint %}
+
+***
+
+## The OWLLLM Lab
 
 {% tabs %}
 {% tab title="About" %}
@@ -101,7 +111,7 @@ The OWLLLM Lab is pleased to welcome the following First-Year Scholars in AY 202
 {% endtab %}
 {% endtabs %}
 
-## Join the OWLS-CARE Lab
+## The OWLS-CARE Lab <a href="#owls-care" id="owls-care"></a>
 
 {% tabs %}
 {% tab title="About" %}
