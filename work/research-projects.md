@@ -47,14 +47,6 @@ The Primary Investigator (PI) of the OWLLM Lab is Dr. Dylan Goldblatt.
 * Opened and digitized language learning through projects like the open textbook _Der und mehr_ (2020) and as Co-PI on an NSF Cyberlearning grant application
 {% endtab %}
 
-{% tab title="Team" %}
-The OWLLLM Lab is pleased to welcome the following First-Year Scholars in AY 2023-24:
-
-* Daisi S
-* Chloe J
-* Cheryl N
-{% endtab %}
-
 {% tab title="Apply" %}
 **Application**
 
@@ -99,6 +91,14 @@ All KSU Students
 * To join the lab, students will perform domain-specific research and apply for grants to fund their participation.
 * To continue with the lab, students must achieve milestones as scheduled and pursue research assignments and professional development opportunities as provided.
 {% endtab %}
+
+{% tab title="Team" %}
+The OWLLLM Lab is pleased to welcome the following First-Year Scholars in AY 2023-24:
+
+* Daisi S
+* Chloe J
+* Cheryl N
+{% endtab %}
 {% endtabs %}
 
 ## Join the OWLS-CARE Lab
@@ -131,7 +131,7 @@ The Primary Investigator (PI) of the OWLS-CARE Lab is Dr. Sabine Smith
 {% tab title="Apply" %}
 **Application**
 
-The application for OWLS-CASE is now open. Applications to work with specific OWLS-CARE projects go through a contract process. Please visit the [**downloads**](../forms/downloads.md) page to fill out your OWLS-CARE lab agreement.
+The application for OWLS-CARE is now open. Applications to work with specific OWLS-CARE projects go through a contract process. Please visit the [**downloads**](../forms/downloads.md) page to fill out your OWLS-CARE lab agreement.
 
 **Funding**
 
