@@ -127,7 +127,7 @@ The Primary Investigator (PI) of the OWLS-CARE Lab is Dr. Sabine Smith
 {% endtab %}
 
 {% tab title="Application" %}
-Pending approval, the OWLS-CARE project PI, Dr. Smith provides stipends in support of participating students upon satisfactory contract completion and based on specified OWLS-CARE contract criteria. Applications to work with specific OWLS-CARE projects go through this website. See the downloads page for contracts.
+Pending approval, the OWLS-CARE project PI, Dr. Smith provides stipends in support of participating students upon satisfactory contract completion and based on specified OWLS-CARE contract criteria. Applications to work with specific OWLS-CARE projects go through a contract process. Please visit the [**downloads**](../forms/downloads.md) page to fill out your OWLS-CARE lab agreement.
 {% endtab %}
 {% endtabs %}
 
