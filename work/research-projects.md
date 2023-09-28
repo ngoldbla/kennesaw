@@ -25,11 +25,19 @@ layout:
 Faculty and Undergraduates in our program collaborate on original scholarship. Consider joining a faculty research lab or working with a mentor toward your career goals. Find the research lab and project that interests you the most and submit your application or express your interest today!
 
 {% hint style="success" %}
-### OWLLLM (**O**ptimizing **W**ord **L**earning via **L**arge **L**anguage **M**odels) <a href="#owlllm" id="owlllm"></a>
+### [OWLLLM](research-projects.md#the-owlllm-lab) <a href="#owlllm" id="owlllm"></a>
+
+PI: Dr. Dylan Goldblatt
+
+**O**ptimizing **W**ord **L**earning via **L**arge **L**anguage **M**odels
 {% endhint %}
 
 {% hint style="success" %}
-### OWLS-CARE (**O**ptimizing **W**ith **L**eadership **S**kills: **C**areer **A**dvancement **R**esources **E**xplored) <a href="#owls-care" id="owls-care"></a>
+### [OWLS-CARE](research-projects.md#owls-care-1) <a href="#owls-care" id="owls-care"></a>
+
+PI: Dr. Sabine Smith
+
+**O**ptimizing **W**ith **L**eadership **S**kills: **C**areer **A**dvancement **R**esources **E**xplored
 {% endhint %}
 
 ***
