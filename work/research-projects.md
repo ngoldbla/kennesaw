@@ -91,9 +91,9 @@ First-year Scholars
 
 All KSU Students
 
-* Students will continue to achieve academically outside of the lab.
-* To join the lab, students will complete a process to attract funding support for the lab and their own stipend, if applicable.
-* To remain in good standing with the lab, students must achieve milestones as scheduled and pursue research assignments and professional development opportunities as provided.
+* Students must demonstrate academic achievement, efficient time management, and clarity of digital and face-to-face communication.
+* To join the lab, students will perform domain-specific research and apply for grants to fund their participation.
+* To continue with the lab, students must achieve milestones as scheduled and pursue research assignments and professional development opportunities as provided.
 {% endtab %}
 {% endtabs %}
 
