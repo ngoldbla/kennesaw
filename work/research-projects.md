@@ -24,7 +24,7 @@ layout:
 
 # 🔬 Research Projects
 
-## Join our Research Lab
+## Join the OWLLLM Lab
 
 {% tabs %}
 {% tab title="About" %}
@@ -71,9 +71,9 @@ Content-Based Outcomes - definitions of LLM/AI terms, improved understanding of 
 
 Skill-Based Outcomes - design a study to answer a research question, develop a hypothesis, write a research paper, present their research to an audience (e.g., poster)
 {% endtab %}
-{% endtabs %}
 
-### Eligibility
+{% tab title="Eligibility" %}
+First-year Scholars
 
 * Students must be in their first year of college at KSU with fewer than 30 transfer credits (not including AP and dual enrollment credits).
 * To remain in the First-Year Scholars Program in the Spring, students must be enrolled in classes and in good academic standing.
@@ -81,17 +81,57 @@ Skill-Based Outcomes - design a study to answer a research question, develop a h
 * The project will be presented at the Symposium of Student Scholars in April.
 * Progress Reports and end of semester evaluation forms will be submitted on time to the Office of Undergraduate Research.
 
-### How to Apply
+All KSU Students
 
-The Officer of Undergraduate Research at KSU provides stipends in support of research training for first year students who meet certain criteria. Applications to work with specific labs go through the Office of Undergraduate Research. _If you are reading this on or after September 14, 2023, please be aware that the deadline for applications to the First-Year Scholars Program has passed._
+* Students will continue to achieve academically outside of the lab.
+* To join the lab, students will complete a process to attract funding support for the lab and their own stipend, if applicable.
+* To remain in good standing with the lab, students must achieve milestones as scheduled and pursue research assignments and professional development opportunities as provided.
+{% endtab %}
+{% endtabs %}
 
-{% hint style="success" %}
-[**Click here for information**](https://research.kennesaw.edu/our/first-year-scholars/2023-2024-projects/index.php) about the First-Year Scholars Program from KSU's OUR.
-{% endhint %}
+## Join the OWLS-CARE Lab
 
-{% hint style="success" %}
-[**Click here to start your application**](https://forms.office.com/Pages/ResponsePage.aspx?id=5W7yRTTxnkO8k-bH4z1hwhdLywYqCMxNoBO3FAtCMJZUNFk2VTJYSFlLWVdFRVFFOVRaUU1BQUQ4MiQlQCN0PWcu) for the First-Year Scholars Program.
-{% endhint %}
+{% tabs %}
+{% tab title="About" %}
+In 2023 Dr. Smith inaugurated the OWLS-CARE Lab at KSU. OWLS-CARE connects OWLS and CARE because it brings together KSU Owls and the intentional act of caring for and about your leadership skills through exploration and practice. The lab name is also an acronym for **O**ptimizing **W**ith **L**eadership **S**kills: **C**areer **A**dvancement **R**esources **E**xplored, which is the focus of its research. This research exists to facilitate student success in undergraduate education at KSU, where the curriculum emphasizes the development of critical career competencies and leadership skills.
+
+Currently, Dr. Smith is recruiting students for the following OWLS-CARE projects.
+
+**Artificial Intelligence (AI) as Learning Support in WLC Student Success**
+
+This undergraduate research project will explore the potential applications of artificial intelligence (AI) to support student success in developing four critical communication skills (reading, writing, speaking, and listening) in World Language and Culture (WLC) courses. As AI technology and application opportunities evolve rapidly in educational contexts, there is great interest in understanding how AI can be leveraged ethically-responsibly to enhance learners’ experiences, discipline-based skills, and career competencies. Our team of undergraduate researchers will prepare for conference attendance at the [2023 GA Educational Technology (GaETC) Conference Nov. 1-3 in Atlanta, GA](https://conference.gaetc.org/program/), conduct a literature review, propose and potentially implement use cases in Spring 2024 to demonstrate the value of AI in this domain.
+{% endtab %}
+
+{% tab title="Faculty" %}
+The Primary Investigator (PI) of the OWLS-CARE Lab is Dr. Sabine Smith
+
+* Sabine Smith is Professor of German at Kennesaw State University in the Department of World Languages and Cultures.&#x20;
+* She has over 30 years of teaching experience with a sustained research interest in cross-cultural comparisons. She facilitates in-class learning and study-/work-away programs in diverse and inclusive modalities.
+* With approx. 50 publications and funded grants, she has been recognized in local and international contexts.&#x20;
+* Her research has focused on learners’ development of intercultural competence via global learning experiences.&#x20;
+* Most recently, co-authored publications report on interdisciplinary, collaborative studies, e.g ”Advancing Intercultural Communication Skills in Diverse Teams: An Intervention Program for Project-Based Engineering Courses“ (JHETP, 2023), “Improving Communication Skills in Global Engineers: Adapting the UNESCO Story Circles Method in an Undergraduate Engineering Course“ (ASEE, 2022), and „Cross-Cultural Contexts of Teaching and Learning: Experiences of International Faculty at a Southeastern University in the United States” (_Currents in Teaching and Learning_, 2022).
+{% endtab %}
+
+{% tab title="Eligibility" %}
+**Artificial Intelligence (AI) as Learning Support in WLC Student Success**
+
+* Students must be enrolled in KSU undergraduate WLC classes and in good academic standing in fall 2023 and spring 2024 – and submit a signed OWLS-CARE contract.
+* To receive the stipend payment for attendance of the 2023 conference on November 1-3, 2023 (pending funding), students are expected to participate in the mandatory orientation pre-conference meeting, attend at least 10 sessions/presentations on either days of GaETC on AI applications in the WLC curriculum, report on findings during a post-conference event.
+* To receive the stipend payment for conducting a literature review, propose/potentially implement use cases, and present at the KSU Symposium of Student Scholars in April 2024 (pending funding), students are expected to attend subsequent meetings and workshops hosted by Dr. Smith.
+
+**Leadership Skills as Career Competencies: Intentional Practice of Communication in Teams**
+
+* Students must be enrolled in KSU undergraduate WLC classes and in good academic standing in spring 2024 – and submit a signed OWLS-CARE contract.
+* To receive the stipend payment (pending funding), students are expected to participate in mandatory meetings, report on progress and findings prior to and during the transnational seminar, as well as attend events and/or workshops hosted by Dr. Smith as appropriate.
+* Students will present at the KSU Symposium of Student Scholars in April 2024.
+{% endtab %}
+
+{% tab title="Application" %}
+Pending approval, the OWLS-CARE project PI, Dr. Smith provides stipends in support of participating students upon satisfactory contract completion and based on specified OWLS-CARE contract criteria. Applications to work with specific OWLS-CARE projects go through this website. See the downloads page for contracts.
+{% endtab %}
+{% endtabs %}
+
+###
 
 {% content-ref url="../learn/our-faculty.md" %}
 [our-faculty.md](../learn/our-faculty.md)
