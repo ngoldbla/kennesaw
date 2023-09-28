@@ -155,8 +155,6 @@ _Leadership Skills as Career Competencies: Intentional Practice of Communication
 {% endtab %}
 {% endtabs %}
 
-###
-
 {% content-ref url="../learn/our-faculty.md" %}
 [our-faculty.md](../learn/our-faculty.md)
 {% endcontent-ref %}
