@@ -28,9 +28,9 @@ layout:
 
 {% tabs %}
 {% tab title="About" %}
-In 2023 Dr. Goldblatt inaugurated the OWLLLM Lab at KSU. OWLLM combines Owl and LLM because it brings together KSU Owls and LLM technology. The lab name is also an acronym for **O**ptimizing **W**ord **L**earning via **L**arge **L**anguage **M**odels, which is the focus of its research. This research exists to facilitate student success in language education at KSU, where the curriculum emphasizes the learning and retention of high frequency vocabulary in support of rapid second language acquisition.
+In 2023 Dr. Goldblatt inaugurated the OWLLLM Lab at KSU. OWLLM combines Owl and LLM because it brings together KSU Owls and LLM technology. The lab name is also an acronym for **O**ptimizing **W**ord **L**earning via **L**arge **L**anguage **M**odels, which is the focus of its research. This research exists to facilitate student success in language education at KSU, where the curriculum emphasizes the learning and retention of high frequency vocabulary in support of rapid second language acquisition.&#x20;
 
-Currently, Dr. Goldblatt is recruiting students for the following OWLLLM project:
+Currently, Dr. Goldblatt is leading students on the following project:
 
 **Artificial Intelligence (AI) and Large Language Models (LLM) as Learning Supports for Second Language Acquisition (SLA)**
 
