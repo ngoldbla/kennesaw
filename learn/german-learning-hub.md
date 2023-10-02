@@ -22,8 +22,8 @@ Learning German isn't just about textbooks, it's also about diving into German c
 
 Remember, learning is best when you're enjoying yourself. Share what you learn with your friends, keep a German journal, and build a personal German vocabulary notebook. It's more fun to learn together!
 
-{% content-ref url="../explore/conversation-and-pop-culture.md" %}
-[conversation-and-pop-culture.md](../explore/conversation-and-pop-culture.md)
+{% content-ref url="../explore/conversation-and-culture.md" %}
+[conversation-and-culture.md](../explore/conversation-and-culture.md)
 {% endcontent-ref %}
 
 ## Language Training <a href="#block-3756db9f4a7f4c15aed5a47f0a56560e" id="block-3756db9f4a7f4c15aed5a47f0a56560e"></a>

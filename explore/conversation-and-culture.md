@@ -17,17 +17,29 @@ layout:
     visible: true
 ---
 
-# 🍿 Conversation & Pop Culture
+# 🍿 Conversation & Culture
 
 ## Kaffeeklatsch <a href="#block-e131257c4d01445d8745b7e736f29862" id="block-e131257c4d01445d8745b7e736f29862"></a>
 
-Each semester the German Studies program offers a weekly conversation hour known as Kaffeeklatsch. The hour meets in the Starbucks in the Social Sciences Building starting August 31st.
+Each semester the German Studies program offers a weekly conversation hour known as Kaffeeklatsch. In Fall 2023 there are two sessions.
 
 {% hint style="success" %}
-Fall 2023 Kaffeeklatsch meets Thursdays, 12:30-1:30 in Social Sciences (1st floor).
+Wednesdays 2:30-3:00 pm in the World Languages Resources Center, in Pilcher 134.
 {% endhint %}
 
+{% hint style="success" %}
+Thursdays 12:30-1:30 pm in the Starbucks on the 1st floor of the Social Sciences Building.
+{% endhint %}
+
+<div>
+
 <figure><img src="../.gitbook/assets/Kaffeeklatsch F23 KSU.png" alt="" width="375"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Kaffeeklatsch 2 Fall 2023.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 ## German Tutoring
 

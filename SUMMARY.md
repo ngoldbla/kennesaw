@@ -18,7 +18,7 @@
 
 ## Explore
 
-* [🍿 Conversation & Pop Culture](explore/conversation-and-pop-culture.md)
+* [🍿 Conversation & Culture](explore/conversation-and-culture.md)
 * [📅 German Club](explore/german-club.md)
 * [🏅 German Honor Society](explore/german-honor-society.md)
 * [🗳 Student Council](explore/student-council.md)
