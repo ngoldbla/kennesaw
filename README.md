@@ -27,13 +27,15 @@ layout:
 
 ## Fall 2023 Updates
 
-* **Tutoring.** Special welcome to the new WLRC German Tutor, Desiree! [Schedule a visit today](explore/conversation-and-pop-culture.md)!
-* **Conversation.** [Kaffeestunde](explore/conversation-and-pop-culture.md) is meeting Thursdays 12:30-1:30 pm in the Starbucks on the 1st floor of the Social Sciences Building, starting August 31, 2023.
+* **Tutoring.** Special welcome to the new WLRC German Tutor, Desiree! [Schedule a visit today](explore/conversation-and-pop-culture.md)! Desiree is available MW 2-3 p.m in the WLRC Pilcher (PS) 134. You can also contact Desiree Bressler at wlrcgerman@kennesaw.edu.
+* **Conversation.** [Kaffeeklatsch](explore/conversation-and-pop-culture.md) is currently meeting twice a week:&#x20;
+  * Thursdays 12:30-1:30 pm in the Starbucks on the 1st floor of the Social Sciences Building
+  * Wednesdays 2:30-3:00 pm in the World Languages Resources Center (Pilcher 134).
+* **Oktoberfest.** Desiree will be attending on October 15th. If you’d like to join, contact Desiree at wlrcgerman@kennesaw.edu and ask your instructor if you can get extra credit!
 * **Contest.** The [Annual Georgia German Poetry Contest](events/poetry-contest.md) is live and there are cash prizes.
 * [**German Honor Society**](explore/german-honor-society.md) is accepting applications now for Fall 2023 inductions. Deadline, October 1, 2023. The induction ceremony is scheduled for October 19, 2023 at 2:00 pm in Pilcher 204.
 * **Election.** Fall 2023 will inaugurate the first cohort of elections to the [German Student Council](explore/student-council.md).
 * **Study Abroad (Germany)**. Drop in for virtual or face-to-face information sessions about a multitude of programming for study abroad. The schedule and location information can be found on the [**study abroad**](explore/study-abroad/) page.
-* ~~**Research.** KSU students interested in undergraduate research should visit the~~ [~~Open House~~](https://research.kennesaw.edu/our/open-house.php)~~. Refreshments provided and all are welcome! September 7, 2023 from 3:30pm to 5:30 pm in Academic Learning Center, suite 5500.~~ [~~RSVP today~~](https://forms.office.com/Pages/ResponsePage.aspx?id=5W7yRTTxnkO8k-bH4z1hwhdLywYqCMxNoBO3FAtCMJZUNlJRQkhFTzI2MzdPV1RSSktKR1pYQldSUyQlQCN0PWcu)~~!~~
 * **Contest.** Submit your idea for the perfect KSU German Club T-Shirt in our [Design Contest](events/design-contest.md) and win a prize!
 * **Study Abroad (Italy)**. The [2024 Maymester in Italy Program](https://kennesaw.studioabroad.com/index.cfm?FuseAction=Programs.ViewProgramAngular\&id=10426) is now accepting applications.
 
