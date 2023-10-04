@@ -1,10 +1,10 @@
 ---
 cover: ../.gitbook/assets/Printing3_Walk_of_Ideas_Berlin.JPG
-coverY: 65
+coverY: 504.94890510948915
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:

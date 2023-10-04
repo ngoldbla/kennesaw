@@ -4,11 +4,11 @@ description: >-
   Familiarize yourself with the course schedule templates below, according to
   your area of interest.
 cover: ../.gitbook/assets/24D84298-77C4-4CD4-9704-F04B4EBB9CB4.png
-coverY: 136
+coverY: 227.16058394160586
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
