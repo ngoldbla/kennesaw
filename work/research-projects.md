@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/Language Banner OWLLLM.jpg
-coverY: 0
+coverY: -52.846715328467155
 layout:
   cover:
     visible: true

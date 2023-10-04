@@ -37,4 +37,4 @@ Remember, learning is best when you're enjoying yourself. Share what you learn w
    4. Attend off-campus events and trips.
    5. Seek out international students from German-speaking countries and befriend them.
    6. Watch German films shown on campus, at Filmabend, or at the [**Atlanta Film Festival**](https://www.atlantafilmfestival.com/).
-   7. Become active in the [**German Club**](../explore/german-club.md)
+   7. Become active in the [student-council.md](../explore/student-council.md "mention").

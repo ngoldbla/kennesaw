@@ -3,11 +3,11 @@ description: >-
   Kennesaw German Studies welcomes back students who have traveled far and wide
   to share their experiences in Germany and throughout Europe.
 cover: ../../.gitbook/assets/Study_Abroad_Forum_2022.jpg
-coverY: 72
+coverY: 61.43065693430658
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
@@ -41,8 +41,6 @@ Find a date and time that work best for your schedule below. You may also add th
 * October 25th, in Pilcher 204,  3:30-4:45 PM
 * November 14th, in Pilcher 204,  3:30-4:45 PM
 * November 29th, in Pilcher 204,  3:30-4:45 PM
-
-
 
 ## Experiential Learning
 

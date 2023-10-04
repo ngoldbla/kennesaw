@@ -4,11 +4,11 @@ description: >-
   students pursuing internships for 8-10 weeks in Germany in fields of their
   choice.
 cover: ../.gitbook/assets/01-h_kynqr40n.jpg
-coverY: 20
+coverY: 72.84671532846716
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
