@@ -1,11 +1,10 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxyZXNlYXJjaHxlbnwwfHx8fDE2OTI5ODEwNjB8MA&ixlib=rb-4.0.3&q=85
+cover: ../.gitbook/assets/Language Banner OWLLLM.jpg
 coverY: 0
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
