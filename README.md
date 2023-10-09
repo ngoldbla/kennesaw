@@ -32,7 +32,7 @@ layout:
   * Thursdays 12:30-1:30 pm in the Starbucks on the 1st floor of the Social Sciences Building
   * Wednesdays 2:30-3:00 pm in the World Languages Resources Center (Pilcher 134).
 * **Oktoberfest.** Desiree will be attending on October 15th. If you’d like to join, contact Desiree at wlrcgerman@kennesaw.edu and ask your instructor if you can get extra credit!
-* **Rap Concert**. Help us celebrate 50 years of Hip Hop in Atlanta with us on Friday, October 13th 7-10 pm. DJ and Rap artists from Marseille and Cologne will perform in concert together with artists from Atlanta! Free with advance ticket booking. [Get tickets and information here](https://german-institute.org/events.html/event/2023/10/13/concert-l-i-t-lost-in-translation/451757).
+* **Rap Concert**. Help us celebrate 50 years of Hip Hop in Atlanta with us on Friday, October 13th from 7-10 pm. DJ and Rap artists from Marseille and Cologne will perform in concert together with artists from Atlanta! Free with advance ticket booking. [**Get tickets and information here**](https://german-institute.org/events.html/event/2023/10/13/concert-l-i-t-lost-in-translation/451757). **Update 10/9 The concert is sold out!**
 * **Contest.** The [Annual Georgia German Poetry Contest](events/poetry-contest.md) is live and there are cash prizes.
 * [**German Honor Society**](explore/german-honor-society.md) will host an induction ceremony is scheduled for October 19, 2023 at 2:00 pm in Pilcher 204.
 * **German Student Council.** The first cohort of representatives has been elected to the [German Student Council](explore/student-council.md).
