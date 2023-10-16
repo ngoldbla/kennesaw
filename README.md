@@ -31,14 +31,12 @@ layout:
 * **Conversation.** [Kaffeeklatsch](explore/conversation-and-culture.md) is currently meeting twice a week:&#x20;
   * Thursdays 12:30-1:30 pm in the Starbucks on the 1st floor of the Social Sciences Building
   * Wednesdays 2:30-3:00 pm in the World Languages Resources Center (Pilcher 134).
-* **Oktoberfest.** Desiree will be attending on October 15th. If you’d like to join, contact Desiree at wlrcgerman@kennesaw.edu and ask your instructor if you can get extra credit!
-* **Rap Concert**. Help us celebrate 50 years of Hip Hop in Atlanta with us on Friday, October 13th from 7-10 pm. DJ and Rap artists from Marseille and Cologne will perform in concert together with artists from Atlanta! Free with advance ticket booking. [**Get tickets and information here**](https://german-institute.org/events.html/event/2023/10/13/concert-l-i-t-lost-in-translation/451757). **Update 10/9 The concert is sold out!**
 * **Contest.** The [Annual Georgia German Poetry Contest](events/poetry-contest.md) is live and there are cash prizes.
 * [**German Honor Society**](explore/german-honor-society.md) will host an induction ceremony is scheduled for October 19, 2023 at 2:00 pm in Pilcher 204.
-* **German Student Council.** The first cohort of representatives has been elected to the [German Student Council](explore/student-council.md).
+* **German Student Council.** The first cohort of representatives has been elected to the [German Student Council](explore/student-council.md) and the first meeting will be in-person and virtually as well on October 19, 2023 at 2:00 pm (in Pilcher 204 or on Teams).
 * **Study Abroad (Germany)**. Drop in for virtual or face-to-face information sessions about a multitude of programming for study abroad. The schedule and location information can be found on the [**study abroad**](explore/study-abroad/) page.
 * **Contest.** Submit your idea for the perfect KSU German Club T-Shirt in our [Design Contest](events/design-contest.md) and win a prize!
-* **Study Abroad (Italy)**. The [2024 Maymester in Italy Program](https://kennesaw.studioabroad.com/index.cfm?FuseAction=Programs.ViewProgramAngular\&id=10426) is now accepting applications.
+* **New Courses.** Two new courses will be offered in English in Spring 2024. The first is from Dr. Goldblatt (Voices of Dissent - WLC 2306) and the second is from Dr. Scapolo (Dante's Inferno - ITAL 4434). Both promise to be highly engaging and we recommend you consider them for your future studies.
 
 {% content-ref url="forms/stay-updated.md" %}
 [stay-updated.md](forms/stay-updated.md)
