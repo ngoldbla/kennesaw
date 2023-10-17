@@ -148,7 +148,7 @@ The Primary Investigator (PI) of the OWLS-CARE Lab is Dr. Sabine Smith
 {% tab title="Apply" %}
 **Application**
 
-The application for OWLS-CARE is now open. Applications to work with specific OWLS-CARE projects go through a contract process. Please visit the [**downloads**](../forms/downloads.md) page to fill out your OWLS-CARE lab agreement.
+The application for OWLS-CARE is now open. Applications to work with specific OWLS-CARE projects go through a contract process. [**Please visit our application page to join.**](../forms/join-the-owls-care-lab.md)
 
 **Funding**
 
