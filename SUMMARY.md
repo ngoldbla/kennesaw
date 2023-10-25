@@ -14,7 +14,7 @@
   * [German 3200](learn/advanced-courses/german-3200.md)
   * [German 4434](learn/advanced-courses/german-4434.md)
   * [German 4456](learn/advanced-courses/german-4456.md)
-  * [WLC 2306](learn/advanced-courses/wlc-2306.md)
+  * [WLC 2306: Voices of Dissent](learn/advanced-courses/wlc-2306-voices-of-dissent.md)
 * [🧑🏫 Our Faculty](learn/our-faculty.md)
 
 ## Explore

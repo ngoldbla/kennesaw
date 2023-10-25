@@ -1,0 +1,32 @@
+---
+cover: ../../.gitbook/assets/jene-stephaniuk--MCrF6hnojU-unsplash.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
+# WLC 2306: Voices of Dissent
+
+## About the Seminar
+
+This course offers a passport into the hidden world of dissent. Here, we bear witness to art’s extraordinary capacity to challenge tyranny and empower the persecuted. Together, we will trace a legacy of courage that still echoes, calling us to lives of freedom and fearless creativity. We will traverse the world's continents in this seminar, and give voice to non-canonical authors and artists of Europe, Central and South America, Africa, West Asia, and South and East Asia.
+
+## Getting to Know Each Other
+
+Next semester, your guide will be Dr. Dylan Goldblatt (Ph.D., Germanic Languages and Literatures; Graduate Certificate in Comparative Literature). Before coming to KSU, Dr. Goldblatt lived in Europe and Asia. He is also a researcher in the field of Law in Literature.
+
+We are thrilled to hear about your interest in this first-of-its-kind academic journey into the modern history of artistic dissent. Explore this rich literary and artistic theme of resistance next semester, and learn to create and speak truth for yourself.
+
+{% embed url="https://tally.so/embed/wd01lK?alignLeft=1&dynamicHeight=1&hideTitle=1&transparentBackground=1" %}
