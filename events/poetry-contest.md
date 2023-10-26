@@ -46,7 +46,7 @@ For questions, or if you’d like resources/ideas, or a mini-workshop in your cl
 
 The Georgia German Poetry Contest is an annual event and information about prior years is recorded here. This initiative began in the 2008-09 years at KSU and grew to include statewide participation in 2014.
 
-#### 2023: _Umwelt_
+#### 2023: Umwelt
 
 #### **2022:** Energiewende (Posters)
 
