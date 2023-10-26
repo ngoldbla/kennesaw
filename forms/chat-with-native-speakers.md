@@ -1,5 +1,10 @@
 ---
+cover: ../.gitbook/assets/KSU German Chats Owls Stripe.jpg
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: hero
   title:
     visible: true
   description:
