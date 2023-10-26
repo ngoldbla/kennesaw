@@ -30,7 +30,8 @@ The upload portal does not record your name or other information. This means it 
 
 These are the levels for which you can enter the competition:
 
-* Level 1: High School 1st Year German / College 1st semester – German 1001-level
+* Level 1A: DLI / Elementary - Middle School – German 1001-level
+* Level 1B: High School 1st Year German / College 1st semester – German 1001-level
 * Level 2: High School 2nd Year German / College 2nd semester – German 1002-level
 * Level 3: High School 3rd Year German / College 3rd semester – German 2001-level
 * Level 4: High School 4th Year German / College 4th semester – German 2002-level
