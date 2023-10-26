@@ -1,20 +1,20 @@
 ---
 cover: ../.gitbook/assets/KSU German Chats Owls Stripe.jpg
-coverY: 0
+coverY: 9.138849929873775
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
     visible: false
   tableOfContents:
-    visible: false
+    visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
-    visible: false
+    visible: true
 ---
 
 # 🗣 Chat with Native Speakers
