@@ -29,15 +29,29 @@ The following focus areas offer guidance to members of the German Studies Studen
 
 ### Council Meeting Schedule
 
-Each semester the Council meets at least once and additional meetings are at the discretion of the group. The first meeting is announced in advance through the course representatives in each section, and representatives may choose to invite all German Studies students to a meeting. The Council elects a chairperson in that first meeting. Subsequent meetings are determined by the governance of the council and are announced in a similar fashion. Meetings will also be announced here.
+Each semester the Council meets at least once and additional meetings are at the discretion of the group. The first meeting is announced in advance through the course representatives in each section, and representatives may choose to invite all German Studies students to a meeting. Subsequent meetings are determined by the governance of the council and are announced in a similar fashion. Meetings will also be announced here.
 
-{% hint style="success" %}
-Fall 2023 Council Meeting: October 19, 2023 at 2-3 pm, Pilcher 204.\
-Invite via email, Microsoft Teams ID: 257 872 285 036 (Passcode: RipVmV)
-{% endhint %}
+#### Fall 2023 Meetings
+
+* October 19
+* November 9
 
 ### Current Representatives
 
 The composition for the German Student Council fluctuates each semester. Course representatives will be listed here once nominated.
+
+<div>
+
+<figure><img src="../.gitbook/assets/IMG_7482.JPG" alt="" width="188"><figcaption><p>Bee Weller</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_7927.JPG" alt="" width="188"><figcaption><p>Jaelyn Schumacher</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_7462 (1).JPG" alt="" width="188"><figcaption><p>Elliot Newton</p></figcaption></figure>
+
+</div>
 
 <table><thead><tr><th width="189">Current Course(s)</th><th width="173.33333333333331">Starting Semester</th><th>Name of Representative</th></tr></thead><tbody><tr><td>1001-2</td><td>Fall 2023</td><td>Lily Latham</td></tr><tr><td>1001-3</td><td>Fall 2023</td><td>Ilan Willis-Leon</td></tr><tr><td>1001-4</td><td>Fall 2023</td><td>Elliot Newton</td></tr><tr><td>1002-1</td><td>Fall 2023</td><td>Michael Usic</td></tr><tr><td>1002-2</td><td>Fall 2023</td><td>N/A</td></tr><tr><td>2001-1</td><td>Fall 2023</td><td>Kassie Richwine</td></tr><tr><td>2001-W1</td><td>Fall 2023</td><td>N/A</td></tr><tr><td>2002</td><td>Fall 2023</td><td>Bee Weller</td></tr><tr><td>3302</td><td>Fall 2023</td><td>Jaelyn Schumacher</td></tr><tr><td>3003</td><td>Fall 2023</td><td>Jaelyn Schumacher</td></tr></tbody></table>
