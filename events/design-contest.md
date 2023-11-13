@@ -23,3 +23,7 @@ After sufficient time and entries we will host a voting session for these artwor
 <figure><img src="../.gitbook/assets/ClubPicture2b.jpg" alt=""><figcaption><p>Submission 01, Madita Bergmann</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/ClubPicture1b.png" alt=""><figcaption><p>Submission 02, Madita Bergmann</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/German Club Shirt 1 (1).jpg" alt=""><figcaption><p>Submission 03, Madeline Meyer</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/German Club Shirt 2.jpg" alt=""><figcaption><p>Submission 04, Madeline Meyer</p></figcaption></figure>
