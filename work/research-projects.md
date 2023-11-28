@@ -55,6 +55,12 @@ This undergraduate research project will explore the potential applications of a
 {% endtab %}
 
 {% tab title="PI" %}
+<div align="left">
+
+<figure><img src="../.gitbook/assets/IMG_8064.PNG" alt="" width="188"><figcaption><p>Dr. Dylan Goldblatt</p></figcaption></figure>
+
+</div>
+
 The Primary Investigator (PI) of the OWLLM Lab is Dr. Dylan Goldblatt.
 
 * Delivered digital pedagogy workshops on topics like gamification, ePortfolios, and workflows for faculty and grad students at University of Virginia (2013)
