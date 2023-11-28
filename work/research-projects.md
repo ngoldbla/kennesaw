@@ -112,9 +112,19 @@ All KSU Students
 {% tab title="Team" %}
 The OWLLLM Lab is pleased to welcome the following First-Year Scholars in AY 2023-24:
 
-* Daisi S
-* Chloe J
-* Cheryl N
+<div>
+
+<figure><img src="../.gitbook/assets/IMG_8061.PNG" alt=""><figcaption><p>Cheryl Nguyen</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_8062.PNG" alt=""><figcaption><p>Daisi Sheridan</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_8063.PNG" alt=""><figcaption><p>Chloe Johnson</p></figcaption></figure>
+
+</div>
 {% endtab %}
 {% endtabs %}
 

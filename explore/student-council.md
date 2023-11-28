@@ -42,15 +42,15 @@ The composition for the German Student Council fluctuates each semester. Course 
 
 <div>
 
-<figure><img src="../.gitbook/assets/IMG_7482.JPG" alt="" width="188"><figcaption><p>Bee Weller</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/IMG_8065.PNG" alt=""><figcaption><p>Bee Weller</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_7927.JPG" alt="" width="188"><figcaption><p>Jaelyn Schumacher</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/IMG_8066.PNG" alt=""><figcaption><p>Jaelyn Schumacher</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_7462 (1).JPG" alt="" width="188"><figcaption><p>Elliot Newton</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/IMG_8067.PNG" alt=""><figcaption><p>Elliot Newton</p></figcaption></figure>
 
 </div>
 
