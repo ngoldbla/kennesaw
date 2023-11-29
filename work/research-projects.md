@@ -28,9 +28,7 @@ Faculty and Undergraduates in our program collaborate on original scholarship. C
 
 PI: Dr. Dylan Goldblatt
 
-**O**ptimizing **W**ord **L**earning via **L**arge **L**anguage **M**odels
-
-
+Visit us as [sagalabs.org](https://www.sagalabs.org) for podcasts, news, and project updates.
 {% endhint %}
 
 {% hint style="success" %}
@@ -45,12 +43,14 @@ PI: Dr. Sabine Smith
 
 ## The Saga Research Lab
 
-{% embed url="https://www.sagalabs.org" %}
-Official website and portal for Saga
-{% endembed %}
-
 {% tabs %}
 {% tab title="About" %}
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/Saga Logo Refined Web.png" alt="" width="300"><figcaption></figcaption></figure>
+
+</div>
+
 In 2023 Dr. Goldblatt inaugurated  **Saga** at KSU. This research lab exists to facilitate student success in language education at KSU, where the curriculum emphasizes the learning and retention of high frequency vocabulary in support of rapid second language acquisition.&#x20;
 
 Currently, Dr. Goldblatt is leading students on the following project:
@@ -58,6 +58,8 @@ Currently, Dr. Goldblatt is leading students on the following project:
 **Artificial Intelligence (AI) and Large Language Models (LLM) as Learning Supports for Second Language Acquisition (SLA)**
 
 This undergraduate research project will explore the potential applications of artificial intelligence (AI) and large language models (LLMs) to support second language learning and instruction. As AI and natural language processing advance rapidly, there is great interest in how these technologies could be leveraged to enhance language learning outcomes and experiences. Our team of undergraduate researchers from linguistics and literature backgrounds will conduct a literature review, propose use cases, and potentially build prototypes to demonstrate the value of AI/LLMs in this domain.
+
+Visit us at [**sagalabs.org**](https://www.sagalabs.org) for more information and to follow us for updates.
 {% endtab %}
 
 {% tab title="PI" %}
