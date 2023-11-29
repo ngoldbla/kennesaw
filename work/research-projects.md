@@ -24,11 +24,13 @@ layout:
 Faculty and Undergraduates in our program collaborate on original scholarship. Consider joining a faculty research lab or working with a mentor toward your career goals. Find the research lab and project that interests you the most and submit your application or express your interest today!
 
 {% hint style="success" %}
-### [OWLLLM](research-projects.md#the-owlllm-lab) <a href="#owlllm" id="owlllm"></a>
+### [The Saga Research Lab](research-projects.md#the-saga-research-lab) <a href="#owlllm" id="owlllm"></a>
 
 PI: Dr. Dylan Goldblatt
 
 **O**ptimizing **W**ord **L**earning via **L**arge **L**anguage **M**odels
+
+
 {% endhint %}
 
 {% hint style="success" %}
@@ -41,11 +43,15 @@ PI: Dr. Sabine Smith
 
 ***
 
-## The OWLLLM Lab
+## The Saga Research Lab
+
+{% embed url="https://www.sagalabs.org" %}
+Official website and portal for Saga
+{% endembed %}
 
 {% tabs %}
 {% tab title="About" %}
-In 2023 Dr. Goldblatt inaugurated the OWLLLM Lab at KSU. OWLLM combines Owl and LLM because it brings together KSU Owls and LLM technology. The lab name is also an acronym for **O**ptimizing **W**ord **L**earning via **L**arge **L**anguage **M**odels, which is the focus of its research. This research exists to facilitate student success in language education at KSU, where the curriculum emphasizes the learning and retention of high frequency vocabulary in support of rapid second language acquisition.&#x20;
+In 2023 Dr. Goldblatt inaugurated  **Saga** at KSU. This research lab exists to facilitate student success in language education at KSU, where the curriculum emphasizes the learning and retention of high frequency vocabulary in support of rapid second language acquisition.&#x20;
 
 Currently, Dr. Goldblatt is leading students on the following project:
 
@@ -61,7 +67,7 @@ This undergraduate research project will explore the potential applications of a
 
 </div>
 
-The Primary Investigator (PI) of the OWLLM Lab is Dr. Dylan Goldblatt.
+The Primary Investigator (PI) of the Saga Research Lab is Dr. Dylan Goldblatt.
 
 * Delivered digital pedagogy workshops on topics like gamification, ePortfolios, and workflows for faculty and grad students at University of Virginia (2013)
 * Expertise in narrative, German cinema, and interactive media to inform hypermedia development and analysis for this project
@@ -116,7 +122,7 @@ All KSU Students
 {% endtab %}
 
 {% tab title="Team" %}
-The OWLLLM Lab is pleased to welcome the following First-Year Scholars in AY 2023-24:
+The Saga Research Lab is pleased to welcome the following First-Year Scholars in AY 2023-24
 
 <div>
 
