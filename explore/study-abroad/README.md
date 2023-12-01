@@ -58,6 +58,12 @@ Here are tips for making the most of your study abroad experience and using it t
 * If you choose to travel, spend some significant time exploring the German-speaking countries.
 * Welcome the opportunity to challenge yourself and grow while exploring another language, culture, and way of life. Recognize that you will have moments of homesickness and “culture shock.” These are normal and part of adjusting to a new culture. You will have wonderfully exhilarating moments too, especially if you make your best effort to explore and live in German.
 
+## Culture Shock and Reverse Culture Shock
+
+In this video, Ale Schiach and Dr. Sabine Smith of KSU German Studies delve into the intricate world of culture shock and reverse culture shock, phenomena that often shape the experiences of international students and travelers. In this exploration, we will unravel the complexities of adapting to a new cultural environment and the equally challenging process of readjusting to one's home culture upon return. Our focus will be on students preparing for study abroad in Germany, offering insights into how they can navigate and embrace these transformative experiences.
+
+{% embed url="https://youtu.be/rRbZnqvEUuo?si=7e7uIJi5UcMHVstv" %}
+
 ## Featured Programs
 
 {% content-ref url="the-heart-of-europe.md" %}
