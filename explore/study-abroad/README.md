@@ -60,7 +60,7 @@ Here are tips for making the most of your study abroad experience and using it t
 
 ## Culture Shock and Reverse Culture Shock
 
-In this video, Ale Schiach and Dr. Sabine Smith of KSU German Studies delve into the intricate world of culture shock and reverse culture shock, phenomena that often shape the experiences of international students and travelers. In this exploration, we will unravel the complexities of adapting to a new cultural environment and the equally challenging process of readjusting to one's home culture upon return. Our focus will be on students preparing for study abroad in Germany, offering insights into how they can navigate and embrace these transformative experiences.
+In this video, Ale Schiach and Dr. Sabine Smith of KSU German Studies delve into the intricate world of culture shock and reverse culture shock, phenomena that often shape the experiences of international students and travelers. In this exploration, we will unravel the complexities of adapting to a new cultural environment and the equally challenging process of readjusting to one's home culture upon return. Our focus will be on students preparing for study abroad in Germany, offering insights into how they can navigate and embrace these transformative experiences. (Accessibility note: use the CC toggle to enable high quality English subtitles for this video.)
 
 {% embed url="https://youtu.be/rRbZnqvEUuo?si=7e7uIJi5UcMHVstv" %}
 
