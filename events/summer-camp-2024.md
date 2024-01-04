@@ -2,14 +2,14 @@
 description: >-
   “Sommer in der Stadt” is the motto for our 1-day German Summer Camp: Pull up a
   chair, enjoy the music, bask in the sun on the KSU campus, and make your own
-  lyrics, poem, rap, or summer hit 2023!
+  lyrics, poem, rap, or summer hit 2024!
 ---
 
-# 🏕 Summer Camp (2023)
+# 🏕 Summer Camp (2024)
 
 ## Schedule and Location <a href="#block-34e659e3e01b4ba18e803db077b02001" id="block-34e659e3e01b4ba18e803db077b02001"></a>
 
-Kennesaw State University will host a German Summer Camp on Tuesday, July 18, 2023. The event will take place on the Kennesaw Campus in the Social Science Building or Academic Learning Center Building from 8 am to 5 pm. The event hosts are the Department of World Languages and Cultures in the Norman J. Radow College of Humanities and Social Sciences (RCHSS).
+Kennesaw State University will host a German Summer Camp on **Tuesday, July 9, 2024**. The event will take place on the Kennesaw Campus in the Social Science Building or Academic Learning Center Building from 8 am to 5 pm. The event hosts are the Department of World Languages and Cultures in the Norman J. Radow College of Humanities and Social Sciences (RCHSS).
 
 ## **Goals** <a href="#block-8c84985d71174da8a110248abf507fff" id="block-8c84985d71174da8a110248abf507fff"></a>
 
@@ -20,7 +20,7 @@ Kennesaw State University will host a German Summer Camp on Tuesday, July 18, 20
 
 * Get to know your peers in a social setting over a breakfast snack.
 * Meet the organizers and learn about music and summer in the city - German style!
-* Learn how to write your own lyrics, poem, or your own summer 2023 “Ohrwurm”
+* Learn how to write your own lyrics, poem, or your own summer 2024 “Ohrwurm”
 * Participate in the March Madness Music Competition to select your winning song!
 * Join us for lunch at the KSU Commons - our treat!
 * Get over the “Schnitzel Koma” with a Campus Scavenger Hunt - win a prize!
@@ -40,28 +40,15 @@ In order to participate in the German Summer Camps, all students and their legal
 
 Students who wish to participate should book using an online payment and registration process. Visit the registration page where you can submit payment for the program and provide all of your information. There is a two step process. First you will complete an information survey, and after you submit that you can provide payment via credit or debit card.
 
-[**Register for German Summer Camp**](https://whop.com/ksu-german-studies) (Note: Registration for Summer 2023 has closed)
+{% hint style="success" %}
+Visit our [**online portal**](https://whop.com/ksu-german-studies/) to register for KSU's German Summer Camp this July!
+{% endhint %}
 
 ## Schedule <a href="#block-8b2e1afa236f46a09e5cbf6c77b2e737" id="block-8b2e1afa236f46a09e5cbf6c77b2e737"></a>
 
-📅July 18, 2023 8 am – 5 pm
+📅July 9, 2024 8 am – 5 pm
 
-| **Time**            | **Activity**                                              | **Location (building/room)** |
-| ------------------- | --------------------------------------------------------- | ---------------------------- |
-| 8:00 – 9:00         | Donut/Breakfast Hour, to encourage students to come early |                              |
-| 9:00 – 9:15         | Welcome / Opening Convocation                             |                              |
-| 9:15 – 10:05        | Session 1 – Music Video Activity Worksheet                |                              |
-| **10 Minute break** |                                                           |                              |
-| 10:15 – 11:00       | Session 2 – How to write a poem/song                      |                              |
-| **10 Minute break** |                                                           |                              |
-| 11:10 – 12:00       | Session 3 – March Madness                                 |                              |
-| 12:00 – 1:00        | Lunch                                                     |                              |
-| 1:10 – 2:00         | Session 4 – Scavenger Hunt to Bookstore                   |                              |
-| **10 Minute break** |                                                           |                              |
-| 2:10 – 3:00         | Session 5 – How to recite a poem (pronunciation)          |                              |
-| **10 Minute break** |                                                           |                              |
-| 3:10 – 4:00         | Session 6 – time to write / practice reciting poem        |                              |
-| 4:00 – 5:00         | Presentation of poems / awards                            |                              |
+<table data-header-hidden><thead><tr><th width="214"></th><th></th></tr></thead><tbody><tr><td><strong>Time</strong></td><td><strong>Activity</strong></td></tr><tr><td>8:00 – 9:00</td><td>Donut/Breakfast Hour, to encourage students to come early</td></tr><tr><td>9:00 – 9:15</td><td>Welcome / Opening Convocation</td></tr><tr><td>9:15 – 10:05</td><td>Session 1 – Music Video Activity Worksheet</td></tr><tr><td><strong>10 Minute break</strong></td><td></td></tr><tr><td>10:15 – 11:00</td><td>Session 2 – How to write a poem/song</td></tr><tr><td><strong>10 Minute break</strong></td><td></td></tr><tr><td>11:10 – 12:00</td><td>Session 3 – March Madness</td></tr><tr><td>12:00 – 1:00</td><td>Lunch</td></tr><tr><td>1:10 – 2:00</td><td>Session 4 – Scavenger Hunt to Bookstore</td></tr><tr><td><strong>10 Minute break</strong></td><td></td></tr><tr><td>2:10 – 3:00</td><td>Session 5 – How to recite a poem (pronunciation)</td></tr><tr><td><strong>10 Minute break</strong></td><td></td></tr><tr><td>3:10 – 4:00</td><td>Session 6 – time to write / practice reciting poem</td></tr><tr><td>4:00 – 5:00</td><td>Presentation of poems / awards</td></tr></tbody></table>
 
 Breaks can be used for bathroom, photos around campus (Berlin Wall / green), or visiting virtual exhibits.
 
