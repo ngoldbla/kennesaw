@@ -4,8 +4,12 @@ Among the many highlights of our State German Convention are the opportunities s
 
 <figure><img src="../.gitbook/assets/background2-h_l6we71cz.jpg" alt=""><figcaption></figcaption></figure>
 
+## 2024 Convention <a href="#block-134c64b438a54f54a102728583ad5aa6" id="block-134c64b438a54f54a102728583ad5aa6"></a>
+
+The 2024 AATG-Georgia State German Convention is scheduled for **January 19-20, 2024 at** [Camp Jackson](http://www.georgiaffacamp.org/)! The theme for the 2024 convention is **FESTE UND FEIERTAGE**. [**Learn More**](https://www.aatg-georgia.com/state-german-convention)
+
 ## 2023 Convention <a href="#block-134c64b438a54f54a102728583ad5aa6" id="block-134c64b438a54f54a102728583ad5aa6"></a>
 
 The 2023 AATG-Georgia State German Convention occured **February 10-11, 2023 at** [Camp Jackson](http://www.georgiaffacamp.org/)! The theme for the 2023 convention was **UMWELT**. [**Learn More**](https://www.aatg-georgia.com/state-german-convention)
 
-<figure><img src="../.gitbook/assets/25BAE85C-1190-4C05-A20D-53EA80348CA0.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/25BAE85C-1190-4C05-A20D-53EA80348CA0.jpeg" alt="" width="188"><figcaption></figcaption></figure>
