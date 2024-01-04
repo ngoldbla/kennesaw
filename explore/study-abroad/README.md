@@ -24,23 +24,22 @@ layout:
 
 ## Information Sessions
 
-Join a session with Dr. Sabine Smith in Fall 2023 to discuss opportunities in Spring & Summer 2024. Come to ask questions about length of study, course credits, work & study abroad choices, housing opportunities, and stipends.
+Join a session with Dr. Sabine Smith this semester to discuss upcoming study abroad opportunities and plan for your next trip. Come to ask questions about length of study, course credits, work & study abroad choices, housing opportunities, and stipends.
 
-In-Person and Virtual Info Sessions are available via Zoom (# 852 5787 9656) with the password: InfoGer23. You can also contact Dr. Smith to get more details via [email](mailto:ssmith2@kennesaw.edu) or via phone (470-578-6366).
+{% hint style="success" %}
+Virtual Sessions via [**this link**](https://kennesaw-edu.zoom.us/j/87174183054) (Zoom # 871 7418 3054): PW: InfoGer24.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/Pilcher 204 Map.png" alt=""><figcaption><p>Pilcher 204 Map</p></figcaption></figure>
 
 ### Info Session Calendar
 
-Find a date and time that work best for your schedule below. You may also add these dates to your personal calendar to help you find a good time to drop in. Pilcher 204 is upstairs near the front desk of the Department of World Languages and Cultures.
+Find a date and time that work best for your schedule below. You may also add these dates to your personal calendar to help you find a good time to drop in. Pilcher 204 is upstairs near the front desk of the Department of World Languages and Cultures (#375 on K Campus).
 
-* August 22nd, in Pilcher 204,  3:30-4:45 PM
-* September 6th, in Pilcher 204,  3:30-4:45 PM
-* September 28th, in Pilcher 204,  3:30-4:45 PM
-* October 10th, in Pilcher 204,  3:30-4:45 PM
-* October 25th, in Pilcher 204,  3:30-4:45 PM
-* November 14th, in Pilcher 204,  3:30-4:45 PM
-* November 29th, in Pilcher 204,  3:30-4:45 PM
+* January 29th, in Pilcher 204,  3:30-4:45 PM
+* February 13th, in Pilcher 204,  3:30-4:45 PM
+* March 13th, in Pilcher 204,  3:30-4:45 PM
+* April 25th, in Pilcher 204,  3:30-4:45 PM
 
 ## Experiential Learning
 
