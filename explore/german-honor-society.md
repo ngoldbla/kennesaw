@@ -28,19 +28,15 @@ You are invited to apply for membership in Kennesaw State University’s Upsilon
 
 ## Call for Applications <a href="#block-ca1befd556fe4a058cd0a864da4019e7" id="block-ca1befd556fe4a058cd0a864da4019e7"></a>
 
-You are invited to apply for membership in Kennesaw State University’s Ypsilon Alpha chapter of the National German Honor Society Delta Phi Alpha if you meet the criteria outlined in the **eligibility** section above.
+You are invited to apply for membership in Kennesaw State University’s Ypsilon Alpha chapter of the National German Honor Society Delta Phi Alpha.
 
-{% hint style="info" %}
-💡Please send the following to Sabine Smith at [ssmith2@kennesaw.edu](mailto:ssmith2@kennesaw.edu). **Deadline for application is Sunday October 1, 2023.**
-{% endhint %}
+{% content-ref url="../forms/apply-to-the-honor-society.md" %}
+[apply-to-the-honor-society.md](../forms/apply-to-the-honor-society.md)
+{% endcontent-ref %}
 
-1. a reflection on your experiences with and commitment to the study of German language and culture in and outside of class (one page maximum)
-2. a resumé
-3. documentation of your community engagement hours (not necessary if you participated in a German Studies study-/work-abroad experience)
+The application link will walk you through the key steps, but there are a couple of things to note. If you wish to submit your application, you will need to write a brief reflection statement, upload a copy of your resumé, and discuss how you participated in the German-speaking community during your studies.&#x20;
 
 Once your application has been reviewed and accepted, your financial obligations are $35 for chapter fees and a lifetime membership.
-
-> The **Honors Induction Ceremony** will be held in person on **Thursday October 19th at 2 PM.** (Location to be determined)
 
 For questions and more information visit Delta Phi Alpha’s website [http://deltaphialpha.org/](http://deltaphialpha.org/) or contact the KSU chapter advisors: Sabine Smith at [ssmith2@kennesaw.edu](mailto:ssmith2@kennesaw.edu) & Dylan Goldblatt [ngoldbla@kennesaw.edu](mailto:ngoldbla@kennesaw.edu).
 
