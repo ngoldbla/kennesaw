@@ -34,7 +34,3 @@ Limited to a total of 30 KSU students in virtual modality and to 20 KSU students
 {% embed url="https://youtu.be/qByIXdCUYAU" %}
 Nina discusses the Heart of Europe program during the Maymester
 {% endembed %}
-
-## Internship Option <a href="#block-dc4dbde7b41c4e9fae5ccf8c1bbc7954" id="block-dc4dbde7b41c4e9fae5ccf8c1bbc7954"></a>
-
-Consider applying for an annual internship at [Otzenhausen](https://www.eao-otzenhausen.de/en/) which supports international educational programs facilitated at the academy for participants from around the world. In this role you will assist with seminars, travel with groups and team leaders to day-long site visits and overnight excursions, and do general office work. Paid at €300/month, you are also eligible for a $1,900 stipend from KSU. Additionally, housing accommodations and food are included for no charge when seminars are in session. Outside of sessions, the cost of living is subsidized. German Studies Majors and Double Majors have priority, but application is open to all students with substantial knowledge of German. Deadline for application is December 1st.
