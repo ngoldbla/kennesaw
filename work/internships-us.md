@@ -23,9 +23,13 @@ layout:
 
 Discover ways to serve and lead with German in your community. Learn how you can contribute to meaningful projects in your community that will have the positive benefit of improving your life satisfaction and job prospects. Apply now for co-curricular experiences and share your passion for German. Here are four options to get started.
 
-## Join the Every Name Counts Project <a href="#block-d2bfd74e9ed14a4d999aaa9def5c800f" id="block-d2bfd74e9ed14a4d999aaa9def5c800f"></a>
+## Join the Arolsen Group <a href="#block-d2bfd74e9ed14a4d999aaa9def5c800f" id="block-d2bfd74e9ed14a4d999aaa9def5c800f"></a>
 
-KSU students can join German, Austrian, and British students for a series of lectures, film screenings and discussions, and lots of opportunities to make friends and connections in Europe. You can also participate in the digital initiative: #[EveryNameCounts](https://www.zooniverse.org/projects/arolsen-archives/every-name-counts).
+KSU students can join German, Austrian, and British students for a series of lectures, film screenings and discussions, and lots of opportunities to make friends and connections in Europe.&#x20;
+
+<figure><img src="../.gitbook/assets/Flyer_Arolsen_Group.png" alt=""><figcaption></figcaption></figure>
+
+You can also participate in the digital initiative: #[EveryNameCounts](https://www.zooniverse.org/projects/arolsen-archives/every-name-counts).
 
 {% embed url="https://www.youtube.com/watch?v=43u1x4pDCD0" %}
 Trailer for the Every Name Counts project
