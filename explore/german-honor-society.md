@@ -11,7 +11,13 @@ description: >-
 
 ## Benefits <a href="#block-b2b52829db544cada9c3861613a65738" id="block-b2b52829db544cada9c3861613a65738"></a>
 
-Delta Phi Alpha offers several scholarships to recognize and support high-achieving Delta Phi Alpha undergraduate students and after your induction you will be eligible to apply. Delta Phi Alpha’s scholarship application deadlines are each year on **March 15th** and **November 15th**. Additionally, the KSU German Studies program will consider Upsilon Alpha membership as part of numerous distinguishing criteria when determining eligibility for competitive program selection in both domestic and international grant-funded opportunities.
+Delta Phi Alpha offers several scholarships to recognize and support high-achieving Delta Phi Alpha undergraduate students and after your induction you will be eligible to apply. Delta Phi Alpha’s scholarship application deadlines are each year on March 15th and November 15th. KSU's own deadline to join the society in a month ahead of that.
+
+{% hint style="info" %}
+To apply to the German Honor Society for induction in the current semester, please submit your materials through the [**online application portal**](../forms/apply-to-the-honor-society.md) no later than October 15th (for Fall semester) or February 15th (for Spring semester).
+{% endhint %}
+
+Additionally, the KSU German Studies program will consider Upsilon Alpha membership as part of numerous distinguishing criteria when determining eligibility for competitive program selection in both domestic and international grant-funded opportunities.
 
 ## Eligibility <a href="#block-967eb0b8758847d0b655b4173a7e354c" id="block-967eb0b8758847d0b655b4173a7e354c"></a>
 
