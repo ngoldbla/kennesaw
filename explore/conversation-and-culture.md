@@ -21,32 +21,22 @@ layout:
 
 ## Kaffeeklatsch <a href="#block-e131257c4d01445d8745b7e736f29862" id="block-e131257c4d01445d8745b7e736f29862"></a>
 
-Each semester the German Studies program offers a weekly conversation hour known as Kaffeeklatsch. In Fall 2023 there are two sessions.
+Each semester the German Studies program offers a weekly conversation hour known as Kaffeeklatsch. This semester there are two sessions.
 
 {% hint style="success" %}
-Wednesdays 2:30-3:00 pm in the World Languages Resources Center, in Pilcher 134.
+Time TBD, in the World Languages Resources Center, in Pilcher 134.
 {% endhint %}
 
 {% hint style="success" %}
-Thursdays 12:30-1:30 pm in the Starbucks on the 1st floor of the Social Sciences Building.
+Time TBD, in the Starbucks on the 1st floor of the Social Sciences Building.
 {% endhint %}
-
-<div>
-
-<figure><img src="../.gitbook/assets/Kaffeeklatsch F23 KSU.png" alt="" width="375"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Kaffeeklatsch 2 Fall 2023.png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
 
 ## German Tutoring
 
-Kennesaw State University hosts a [World Languages Resource Collection](https://radow.kennesaw.edu/wlrc/index.php) (WLRC) in Pilcher Hall, Room 134. This newly renovated language lab is a state-of-the-art facility for language learners and we can't wait to spend time with you there! The German tutor will be present for drop-in face-to-face or remote sessions at the language lab in Fall 2023 according to the following schedule.&#x20;
+Kennesaw State University hosts a [World Languages Resource Collection](https://radow.kennesaw.edu/wlrc/index.php) (WLRC) in Pilcher Hall, Room 134. This newly renovated language lab is a state-of-the-art facility for language learners and we can't wait to spend time with you there! The German tutor will be present for drop-in face-to-face or remote sessions at the language lab this semester according to the following schedule.&#x20;
 
 {% hint style="success" %}
-Fall 2023 German Tutoring with [Desiree Bessler](mailto:dbessler@students.kennesaw.edu): Mondays and Wednesdays, 2-3 pm
+Spring 2024 German Tutoring with [Desiree Bessler](mailto:dbessler@students.kennesaw.edu): please contact Desiree for the schedule
 {% endhint %}
 
 * [**Make a Face-to-Face Appointment**](https://outlook.office365.com/owa/calendar/WorldLanguagesResourceCollection2@kennesawedu.onmicrosoft.com/bookings/s/TT32eTkOn0OP0ZsYIwLGGw2)
