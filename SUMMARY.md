@@ -54,6 +54,7 @@
 ## Forms
 
 * [⌨ Apply for an Experience](forms/apply-for-an-experience.md)
+* [⌨ Apply to the Honor Society](forms/apply-to-the-honor-society.md)
 * [⌨ Join the OWLS-CARE Lab](forms/join-the-owls-care-lab.md)
 * [🗣 Chat with Native Speakers](forms/chat-with-native-speakers.md)
 * [📧 Stay Updated](forms/stay-updated.md)
