@@ -41,6 +41,8 @@ layout:
 
 Generously supported with a $3,000 stipend to you and free-to-you provisions incl. housing, visa, etc. , this opportunity is limited to a total of 5 German Studies students and competitively awarded. Especially for learners interested in advancing professional skills, who will have completed at least two semesters of German prior to departure/start of the virtual internship. Our partners in Germany facilitate 8-week internships with reputable German companies in Hamburg, Germany. German Studies Majors and Double Majors have priority, but application is open to all students. The application Deadline is December 1st.
 
-## Creating the CV <a href="#block-3057ed985c514ae685cf1c4a53117313" id="block-3057ed985c514ae685cf1c4a53117313"></a>
+## Creating the Statement of Interest and resumé/CV  <a href="#block-3057ed985c514ae685cf1c4a53117313" id="block-3057ed985c514ae685cf1c4a53117313"></a>
 
-All students who apply must submit a statement of interest and a resume via this website: [Europass CV](https://europa.eu/europass/en/create-europass-cv).
+All students who apply must submit **a statement of interest**, addressing why they want to complete an internship, in which field/industry, and what qualifications they have.&#x20;
+
+All students who apply must submit **a resume** via this website: [Europass CV](https://europa.eu/europass/en/create-europass-cv).
