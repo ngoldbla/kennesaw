@@ -1,7 +1,7 @@
 ---
 description: >-
   The German Studies Program at Kennesaw State University invites you to
-  participate in its 2024 Georgia Statewide German Poetry Contest. We thank our
+  participate in its 2025 Georgia Statewide German Poetry Contest. We thank our
   sponsor The Halle Foundation.
 ---
 
@@ -9,18 +9,18 @@ description: >-
 
 ## About the Contest <a href="#block-d224abf81e4b47149ecfd6b469d61b6a" id="block-d224abf81e4b47149ecfd6b469d61b6a"></a>
 
-1. Topic and Content: Poems can be about your personal experiences in the world that surrounds you, or your plans and goals for preserving our planet, or anything related to this year's topic: _Feste und Feiertage_.
-2. Deadline: January 10, 2024
+1. Topic and Content: Poems can be about your personal experiences in the world that surrounds you, or your plans and goals for preserving our planet, or anything related to this year's topic: _**Märchen**_**.**
+2. **Deadline: December 20, 2024**
 3. Language: German.
 4. Eligibility: Poets of any age and language level may participate. Poems should be submitted without excessive help/corrections from the teacher or instructor.
-5. Judging: Poems will be judged by upper-level students and native speakers according to student level and age.
-6. Prizes: Winners will receive a certificate and a prize.
+5. Judging: Poems will be judged by upper-level students, KSU faculty, and native speakers according to student level and age.
+6. Prizes: Winners will receive a certificate and a \$$ prize.
 
 ## How to Submit <a href="#block-01a7713acd1c4fa0818456fbeb0bb3e9" id="block-01a7713acd1c4fa0818456fbeb0bb3e9"></a>
 
 Please submit your poem electronically by uploading it as an **attached MS word document** using the button here. Please make sure that you **identify your level** by uploading to the proper portion of the form.
 
-The upload portal does not record your name or other information. This means it is critical that each submitted word document include: (1) a poem, and below your poem, please include (2) your name, (3) your grade level, (4) your level in German, (5) your school or university, and (5) the name of your German instructor. Please do not use the header function in the word file.
+The upload portal does not record your name or other information. This means it is critical that each submitted **word document include: (1) a poem, and below your poem, please include (2) your name, (3) your grade level, (4) your level in German, (5) your school or university, and (5) the name of your German instructor.** Please do not use the header function in the word file.
 
 {% hint style="info" %}
 [**Submit your poem(s) here**](https://forms.gle/KfggLBAVf7tGvxXa8)
@@ -40,11 +40,13 @@ These are the levels for which you can enter the competition:
 
 ### Questions <a href="#block-27c0262d684746c08e08931127a037c2" id="block-27c0262d684746c08e08931127a037c2"></a>
 
-For questions, or if you’d like resources/ideas, or a mini-workshop in your class, please contact Sabine Smith at 470-578-6366 or [ssmith2@kennesaw.edu](mailto:ssmith2@kennesaw.edu). Assuming authors’ permission, we will exhibit winning poems online, at AATG-GA SGC, and at KSU.
+For questions, or if you’d like resources/ideas, or a mini-workshop in your class, please contact Dr. Sabine Smith at 470-578-6366 or [ssmith2@kennesaw.edu](mailto:ssmith2@kennesaw.edu). Assuming authors’ permission, we will exhibit winning poems online, at AATG-GA SGC, and at KSU.
 
 ## Previous Years
 
 The Georgia German Poetry Contest is an annual event and information about prior years is recorded here. This initiative began in the 2008-09 years at KSU and grew to include statewide participation in 2014.
+
+**2024: Feste und Feiertage**
 
 #### 2023: Umwelt
 
