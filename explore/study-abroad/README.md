@@ -36,10 +36,10 @@ Virtual Sessions via [**this link**](https://kennesaw-edu.zoom.us/j/87174183054)
 
 Find a date and time that work best for your schedule below. You may also add these dates to your personal calendar to help you find a good time to drop in. Pilcher 204 is upstairs near the front desk of the Department of World Languages and Cultures (#375 on K Campus).
 
-* January 29th, in Pilcher 204,  3:30-4:45 PM
-* February 13th, in Pilcher 204,  3:30-4:45 PM
-* March 13th, in Pilcher 204,  3:30-4:45 PM
-* April 25th, in Pilcher 204,  3:30-4:45 PM
+* January 29th, in Pilcher 204 and via zoom,  3:30-4:45 PM
+* February 13th, in Pilcher 204 and via zoom,  3:30-4:45 PM
+* March 13th, in Pilcher 204 and via zoom,  3:30-4:45 PM
+* April 25th, in Pilcher 204 and via zoom,  3:30-4:45 PM
 
 ## Experiential Learning
 
@@ -49,7 +49,7 @@ Of course, students can complete a German major without this experience. But thi
 
 ## Pro Tips
 
-Here are tips for making the most of your study abroad experience and using it to achieve your goals as a German major:
+Here are tips for making the most of your study abroad experience and using it to achieve your goals as a German major or minor - or simply a learner of German:
 
 * View the experience as a once-in-a-lifetime opportunity to immerse yourself in another culture. Commit to speaking the German language whenever possible. Seek out friends who do the same, and make an effort to get to know Germans. This way, you can learn simply by living and socializing. The experience just might change your life.
 * German university students have less daily homework than Americans. Use the down time to read and study in German what interests you. Remember to practice the principles of “active” learning described above in the section [**Learning Objectives**](../../learn/learning-objectives.md). Also, use your time to explore the world and people around you (in German, of course!).
