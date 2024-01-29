@@ -1,7 +1,8 @@
 ---
 description: >-
   Enjoy Europe for the first time with this faculty-led program during the KSU
-  Maymester.
+  Maymester (approx. 11 days after spring semester and before summer term
+  starts).
 ---
 
 # 🌍 The Heart of Europe
@@ -12,10 +13,10 @@ Trailer for Discover the Heart of Europe
 
 ## Overview <a href="#block-2971f3e9fcad4791ba06249ec3a31afa" id="block-2971f3e9fcad4791ba06249ec3a31afa"></a>
 
-* **Expenses**. Students pay for flights and a $1,750 package. The credit hour option is extra.
-* **Scholarships**. Students can apply for $2,000 of funding to defray expenses.
-* **Credits**. Students can request to earn up to 3 credits of GRMN.
-* **Timeline**. Apply in November, December, and January for Departures in May.
+* **Expenses**. Students pay for flights, tuition (1 course, and federal financial aid etc. applies) and approx. $1,950 for the all-inclusive experience package.&#x20;
+* **Scholarships**. Max. 18 students will receive $2,500 of funding to defray expenses.
+* **Credits**. Students must enroll for 3 credits of FL 2209 (World Languages/Cultures) or GRMN 3390 (Study Abroad).
+* **Timeline**. Apply early to get scholarship \$$ and no later than February 1 for departure in May.
 
 ## Application <a href="#block-3363568cbd514e7db4048664e47c4e41" id="block-3363568cbd514e7db4048664e47c4e41"></a>
 
@@ -25,7 +26,7 @@ Trailer for Discover the Heart of Europe
 
 ## Description <a href="#block-3363568cbd514e7db4048664e47c4e41" id="block-3363568cbd514e7db4048664e47c4e41"></a>
 
-Limited to a total of 30 KSU students in virtual modality and to 20 KSU students as actual short-term study abroad, this generously grant-funded program is especially for learners who are not yet ready for international travel. Anchored at the European Academy in Otzenhausen, the program introduces topics of general interest to KSU students who join, for several days, students from Spain, Germany, and Russia to explore current issues across cultures. Sessions will be in English. Successful participants will earn 1-3 KSU course credits (tuition not covered by grant) and a certificate from the Academy (a nice resume entry!); program cost for traveling students is $ 1,750 (without airfare and tuition) and will be supported with $2,000/each. Open to all students.
+Limited to a total of 18 KSU students as a short-term, faculty-led study abroad, this generously grant-funded program is especially for learners who are not yet ready for independent international travel. Anchored at the European Academy in Otzenhausen, the program introduces topics of general interest to KSU students who will meet scholars, community leaders, and students from 3 German universities to explore current issues across cultures. Sessions will be in English. Successful participants will earn 3 KSU course credits (tuition not covered by grant) and a certificate from the Academy (a nice resume entry!); program cost for traveling students is approx. $ 1,950 (without airfare and tuition) and will be supported with $2,500/each for a total of 18 students - so apply early. Open to all students regardless of major and language skill.
 
 ## Testimonial <a href="#block-b8e507b4e2824a259bb1889540831863" id="block-b8e507b4e2824a259bb1889540831863"></a>
 
