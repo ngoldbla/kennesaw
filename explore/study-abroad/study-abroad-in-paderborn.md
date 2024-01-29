@@ -10,9 +10,9 @@ Sam discusses her study abroad experiences in Paderborn
 
 ## Overview <a href="#block-39ceaa5ea21e451fbf4aa32294a683ea" id="block-39ceaa5ea21e451fbf4aa32294a683ea"></a>
 
-* 🤑 **Expenses**. Students pay for ⅔ of flight and their current KSU tuition with financial aid.
-* 💶 **Scholarships**. Students can apply for $2,500 of funding plus ⅓ of flight.
-* 💼 **Internships.** Optional employment and salary for $400/month.
+* 🤑 **Expenses**. Students pay for airfare, housing, insurance, and on-the ground public transport, and KSU tuition (financial aid etc. applies).
+* 💶 **Scholarships**. Max 6 students will receive $3,500 of funding plus 30% reimbursement for cost-of-living expenses (with proof of payment), e.g. for airfare, housing, insurance, and on-the ground public transport.
+* 💼 **Student Assistantships.** Optional paid employment at UPB (approx. 10 hrs/week for $400/month.
 * 🎒 **Credits**. Students earn numerous course credits, depending on study (and work) plan.
 * ⏰ **Timeline**. Apply in September for Spring travel, apply January-March for Fall travel.
 
@@ -24,7 +24,7 @@ Sam discusses her study abroad experiences in Paderborn
 
 ## Description <a href="#block-e8708236fa6e44099e7cd24114719cce" id="block-e8708236fa6e44099e7cd24114719cce"></a>
 
-Semester-long stay at UPB, co-sponsored by KSU (1/3 of airfare etc.), The Halle Foundation ($2,500/ea) and UPB (optional employment and salary as TA @ $ 400/month). You take a month-long intensive German language-culture course (Sep. and/or Mar.) free of charge; attend classes during the semester and may work as a TA and cultural ambassador for four months (Oct. – Jan. and/or Apr.-Jul) Earn KSU German Studies course credit by submitting work to Dr. Smith. Upper-level German Studies students and German Studies Majors have priority, but application is open to all students. A non-TA option allows students to study at UPB for variable lengths of time. Due October 1st for Spring and April 1st for Fall.
+Semester-long stay at UPB, co-sponsored by KSU (30% of airfare etc.), The Halle Foundation ($3,500/ea) and UPB (optional paid employment as TA @ approx. $ 400/month). You take a month-long intensive German language-culture "crash course" (Sep. and/or Mar.) free of charge; attend classes during the semester and work as a TA and cultural ambassador for four months (Oct. – Jan. and/or Apr.-Jul) Earn KSU German Studies course credit by submitting work to Dr. Smith. German Studies students have priority, but application is open to all students. A non-TA option allows students to study at UPB for variable lengths of time. Due October 1st for Spring and April 1st for Fall.
 
 ## How to Prepare <a href="#block-974064ad0d214af9a4e7baf31edabc8b" id="block-974064ad0d214af9a4e7baf31edabc8b"></a>
 
@@ -40,7 +40,7 @@ How to Prepare for the Paderborn experience
 
 ## Planning <a href="#block-4a5233e554524d65b27799a177e23402" id="block-4a5233e554524d65b27799a177e23402"></a>
 
-Study abroad to Paderborn requires substantial planning in advance. You will need to discuss your plans with KSU German faculty and KSU Education Abroad.
+Study abroad to Paderborn requires substantial planning in advance, but if you follow these simple steps, you will be fine and well-prepared. Note: You will need to discuss your plans with KSU German faculty, your academic Major Advisor, and KSU Education Abroad.
 
 * **Timing**. Will you go abroad for a semester or a year? Note that German university schedules are _not_ fall and spring, but rather winter and summer. For this reason, single semester exchange students should depart in Spring. Academic year exchange students should depart in Fall.
 
