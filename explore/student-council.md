@@ -31,6 +31,10 @@ The following focus areas offer guidance to members of the German Studies Studen
 
 Each semester the Council meets at least once and additional meetings are at the discretion of the group. The first meeting is announced in advance through the course representatives in each section, and representatives may choose to invite all German Studies students to a meeting. Subsequent meetings are determined by the governance of the council and are announced in a similar fashion. Meetings will also be announced here.
 
+#### Spring 2024 Meetings
+
+* TBD. Suggestion: March 19 (Stammtisch, 6 pm, Mellow Mushroom)
+
 #### Fall 2023 Meetings
 
 * October 19
@@ -54,4 +58,11 @@ The composition for the German Student Council fluctuates each semester. Course 
 
 </div>
 
+<table><thead><tr><th width="189">Current Course(s)</th><th width="173.33333333333331">Starting Semester</th><th>Name of Representative</th></tr></thead><tbody><tr><td>1001-2</td><td>Spring 2024</td><td>(Goldblatt)</td></tr><tr><td>1001-W01</td><td>Spring 2024</td><td>(Constantin)</td></tr><tr><td>1002-1</td><td>Spring 2024</td><td>(Goldblatt - R)</td></tr><tr><td>1002-W01</td><td>Spring 2024</td><td>(Carlson)</td></tr><tr><td>2001-W1</td><td>Spring 2024</td><td>(Carlson)</td></tr><tr><td>2002-1</td><td>Spring 2024</td><td>(Goldblatt - R)</td></tr><tr><td>3200</td><td>Spring 2024</td><td>(Smith - R)</td></tr><tr><td>4402</td><td>Spring 2024</td><td>(Smith)</td></tr></tbody></table>
+
 <table><thead><tr><th width="189">Current Course(s)</th><th width="173.33333333333331">Starting Semester</th><th>Name of Representative</th></tr></thead><tbody><tr><td>1001-2</td><td>Fall 2023</td><td>Lily Latham</td></tr><tr><td>1001-3</td><td>Fall 2023</td><td>Ilan Willis-Leon</td></tr><tr><td>1001-4</td><td>Fall 2023</td><td>Elliot Newton</td></tr><tr><td>1002-1</td><td>Fall 2023</td><td>Michael Usic</td></tr><tr><td>1002-2</td><td>Fall 2023</td><td>N/A</td></tr><tr><td>2001-1</td><td>Fall 2023</td><td>Kassie Richwine</td></tr><tr><td>2001-W1</td><td>Fall 2023</td><td>N/A</td></tr><tr><td>2002</td><td>Fall 2023</td><td>Bee Weller</td></tr><tr><td>3302</td><td>Fall 2023</td><td>Jaelyn Schumacher</td></tr><tr><td>3003</td><td>Fall 2023</td><td>Jaelyn Schumacher</td></tr></tbody></table>
+
+
+
+
+
