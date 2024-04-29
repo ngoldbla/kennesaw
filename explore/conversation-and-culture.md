@@ -24,11 +24,11 @@ layout:
 Each semester the German Studies program offers a weekly conversation hour known as Kaffeeklatsch. This semester there are two sessions.
 
 {% hint style="success" %}
-Time TBD, in the World Languages Resources Center, in Pilcher 134.
+By appointment in the World Languages Resources Center, in Pilcher 134.
 {% endhint %}
 
 {% hint style="success" %}
-Time TBD, in the Starbucks on the 1st floor of the Social Sciences Building.
+Thursdays 12:30-1:30 in the Starbucks on the 1st floor of the Social Sciences Building.
 {% endhint %}
 
 ## German Tutoring

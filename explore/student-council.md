@@ -33,12 +33,16 @@ Each semester the Council meets at least once and additional meetings are at the
 
 #### Spring 2024 Meetings
 
-* TBD. Suggestion: March 19 (Stammtisch, 6 pm, Mellow Mushroom)
+* March 19, 2024
+* March 29, 2024
+* April 5, 2024
+* May 2, 2024
 
 #### Fall 2023 Meetings
 
-* October 19
-* November 9
+* October 19, 2023
+* November 9, 2023
+* December 6, 2023
 
 ### Current Representatives
 
