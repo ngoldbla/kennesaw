@@ -22,6 +22,7 @@ Our next Stammtisch is scheduled for **March 19, 2024 at 6 pm at Mellow Mushroom
 
 ### Recent Stammtisch Events <a href="#block-f5f3153b1e4a411199b386fef6146679" id="block-f5f3153b1e4a411199b386fef6146679"></a>
 
+* Mellow Mushroom, March 19, 2024
 * Mellow Mushroom, September 12, 2023
 * Mellow Mushroom, October 25, 2022
 * Miller’s Ale House, March 31, 2022
