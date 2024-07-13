@@ -44,10 +44,10 @@ The Department of World Languages and Cultures offers a B.A. program in Modern L
 ### Frequently Asked Questions
 
 * What credits can I earn during the Maymester (Discover the Heart of Europe)?\
-  _This two week program can replace a single course, such as FL 3302 or FL 3200_
-* What credits can I earn during the Summer in Münster (WiPDaF)?\
-  _This 1-3 month course can replace 1-3 courses, depending on how many months you study there. Those courses can includes: FL 2001, FL 2002, and FL 3303._
+  _This two week program can replace a single course, such as WLC 2209 or GRMN 3390?_
+* What credits can I earn during the Summer Intensive in Münster (WiPDaF)?\
+  _This 1-2 month course can replace 1-2 courses, depending on how many months you study there. Those courses can include: GRMN 1001, 1002, 2001, 2002, 3200, 3302, 3303, or, upon instructor approval, other GRMN courses._
 * What credits can I earn during the Semester or Year Abroad in Paderborn?\
-  _This 1-2 semester program can replace many courses, such as FL 3305, FL 3398, FL 3304, FL 4456, FL 4434, and FL 4402._
+  _This 1-2 semester program can replace many courses, such as WLC/GRMN 1001-4000 level courses depending your needs/program requirements._
 * What credits can I earn during an Internship in Germany?\
-  _This internship experience can replace FL 3398._
+  _This internship experience can get you from 3-9 credits in WLC/GRMN 3398._
