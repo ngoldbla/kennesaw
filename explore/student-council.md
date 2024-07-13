@@ -31,6 +31,10 @@ The following focus areas offer guidance to members of the German Studies Studen
 
 Each semester the Council meets at least once and additional meetings are at the discretion of the group. The first meeting is announced in advance through the course representatives in each section, and representatives may choose to invite all German Studies students to a meeting. Subsequent meetings are determined by the governance of the council and are announced in a similar fashion. Meetings will also be announced here.
 
+#### Fall 2024 Meetings
+
+tbd
+
 #### Spring 2024 Meetings
 
 * March 19, 2024
