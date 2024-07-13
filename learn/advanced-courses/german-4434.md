@@ -10,7 +10,7 @@ Erfahren Sie Ihre Kultur und die der Deutschen – interaktiv mit Herz-Azubis!
 
 ## Description <a href="#block-b5035cb05dad4eff80bf3cfc1f9a42d6" id="block-b5035cb05dad4eff80bf3cfc1f9a42d6"></a>
 
-We prepare for six weeks with German Azubis in our class by studying German-American cultural differences in perceptions, communication, and behaviors – and by planning field trips and site visits in and around KSU.
+We prepare for six weeks with German Azubis in our class by studying German-American cultural differences in perceptions, communication, and behaviors – and by planning field trips and site visits in and around KSU  -  in project-based learning experiences that translate into marketable skills and resumé entries - grooming YOU as a project manager.
 
 ## Links <a href="#block-00b0ad9fe3174b578eb25b50500bba89" id="block-00b0ad9fe3174b578eb25b50500bba89"></a>
 
