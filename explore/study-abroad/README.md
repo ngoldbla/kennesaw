@@ -27,7 +27,7 @@ layout:
 Join a session with Dr. Sabine Smith this semester to discuss upcoming study abroad opportunities and plan for your next trip. Come to ask questions about length of study, course credits, work & study abroad choices, housing opportunities, and stipends.
 
 {% hint style="success" %}
-Virtual Sessions via [**this link**](https://kennesaw-edu.zoom.us/j/87174183054) (Zoom # 871 7418 3054): PW: InfoGer24.
+Virtual Sessions via tbd (Zoom #tbd: PW: InfoGer24.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Pilcher 204 Map.png" alt=""><figcaption><p>Pilcher 204 Map</p></figcaption></figure>
@@ -36,10 +36,7 @@ Virtual Sessions via [**this link**](https://kennesaw-edu.zoom.us/j/87174183054)
 
 Find a date and time that work best for your schedule below. You may also add these dates to your personal calendar to help you find a good time to drop in. Pilcher 204 is upstairs near the front desk of the Department of World Languages and Cultures (#375 on K Campus).
 
-* January 29th, in Pilcher 204 and via zoom,  3:30-4:45 PM
-* February 13th, in Pilcher 204 and via zoom,  3:30-4:45 PM
-* March 13th, in Pilcher 204 and via zoom,  3:30-4:45 PM
-* April 25th, in Pilcher 204 and via zoom,  3:30-4:45 PM
+* tbd
 
 ## Experiential Learning
 
