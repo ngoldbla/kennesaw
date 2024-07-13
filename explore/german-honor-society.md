@@ -40,7 +40,7 @@ You are invited to apply for membership in Kennesaw State University’s Ypsilon
 [apply-to-the-honor-society.md](../forms/apply-to-the-honor-society.md)
 {% endcontent-ref %}
 
-The application link will walk you through the key steps, but there are a couple of things to note. If you wish to submit your application, you will need to write a brief reflection statement, upload a copy of your resumé, and discuss how you participated in the German-speaking community during your studies.&#x20;
+The application link will walk you through all the key steps, but there are a couple of things to note. If you wish to submit your application, you will need to write a brief reflection statement, upload a copy of your resumé, and discuss how you participated in the German-speaking community during your studies.&#x20;
 
 Once your application has been reviewed and accepted, your financial obligations are $35 for chapter fees and a lifetime membership.
 
