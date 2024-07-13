@@ -16,7 +16,7 @@ The German word _Stammtisch_ means a table for regulars and such tables are typi
 
 ### When is the next Stammtisch? <a href="#block-028f3039b67a45029fbcd286495eadca" id="block-028f3039b67a45029fbcd286495eadca"></a>
 
-Our next Stammtisch is scheduled for **March 19, 2024 at 6 pm at Mellow Mushroom** [near the Kennesaw campus!](#user-content-fn-1)[^1] Join the KSU German Club if you’d like to contribute and/or help organize our next event!
+Our next Stammtisch is scheduled for **tbd** [near the Kennesaw campus!](#user-content-fn-1)[^1] Join the KSU German Club if you’d like to contribute and/or help organize our next event!
 
 <figure><img src="../.gitbook/assets/Picture3.png" alt=""><figcaption></figcaption></figure>
 
