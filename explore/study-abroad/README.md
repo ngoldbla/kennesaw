@@ -27,7 +27,7 @@ layout:
 Join a session with Dr. Sabine Smith this semester to discuss upcoming study abroad opportunities and plan for your next trip. Come to ask questions about length of study, course credits, work & study abroad choices, housing opportunities, and stipends.
 
 {% hint style="success" %}
-Virtual Sessions via tbd (Zoom #tbd: PW: InfoGer24.
+Virtual Sessions via tbd (Zoom #tbd: PW:tbd.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Pilcher 204 Map.png" alt=""><figcaption><p>Pilcher 204 Map</p></figcaption></figure>
