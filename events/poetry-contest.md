@@ -10,7 +10,7 @@ description: >-
 ## About the Contest <a href="#block-d224abf81e4b47149ecfd6b469d61b6a" id="block-d224abf81e4b47149ecfd6b469d61b6a"></a>
 
 1. Topic and Content: Poems can be about your personal experiences in the world that surrounds you, or your plans and goals for preserving our planet, or anything related to this year's topic: _**Märchen**_**.**
-2. **Deadline: December 20, 2024**
+2. **Deadline: Friday - December 20, 2024**
 3. Language: German.
 4. Eligibility: Poets of any age and language level may participate. Poems should be submitted without excessive help/corrections from the teacher or instructor.
 5. Judging: Poems will be judged by upper-level students, KSU faculty, and native speakers according to student level and age.
