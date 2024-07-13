@@ -12,7 +12,9 @@ Study Abroad Guide for WiPDaF Münster
 
 ## Overview <a href="#block-648d8fb7788640db95f825a4c455ebac" id="block-648d8fb7788640db95f825a4c455ebac"></a>
 
-* **Expenses**. Students pay €800 per month to cover Münster tuition and housing.
+Limited to a total of 12 KSU students as a short-term study abroad, this generously grant-funded program is especially for learners who are ready for international travel with prior experience. Anchored at the University of Münster in Germany, the program places KSU students in a language-culture immersion experience with peers from around the world - and a certificate from the program. Program cost (for housing and course, excl. airfare and KSU tuition) is approx. $ 900/month and will be supported with $2,500/each for a total of 12 students - so apply early. Open to all students regardless of major and language skill.
+
+* **Expenses**. Students pay approx. $900 per month to cover Münster tuition and housing.
 * **Scholarships**. Max.12 students will receive $2,500 of funding to defray expenses.
 * **Credits**. Students earn 3 GRMN course credits for each month.&#x20;
 * **Timeline**. Apply early and no later than February 1 for month-long stays in June or July.
