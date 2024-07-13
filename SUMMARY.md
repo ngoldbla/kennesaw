@@ -44,6 +44,7 @@
 
 * [🎭 Poetry Contest](events/poetry-contest.md)
 * [🎨 Design Contest](events/design-contest.md)
+* [😎 Summer Camp at KSU](events/summer-camp-at-ksu.md)
 * [🫕 Stammtisch](events/stammtisch.md)
 * [🔋 Energy Transition (2022)](events/energy-transition-2022/README.md)
   * [⚡ Stadium Excursion](events/energy-transition-2022/stadium-excursion.md)
