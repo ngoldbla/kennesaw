@@ -21,35 +21,9 @@ layout:
 
 ### Directory
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Dr. Sabine Smith<br>Professor <br>Pilcher 253 ssmith2@kennesaw.edu</td><td></td><td></td><td><a href="../.gitbook/assets/Sabine_pfp.png">Sabine_pfp.png</a></td></tr><tr><td><p>Dr. Shane Peterson</p><p>Associate Professor Pilcher 248 speter71@kennesaw.edu</p></td><td></td><td></td><td><a href="../.gitbook/assets/Shane_pfp.png">Shane_pfp.png</a></td></tr><tr><td>Dr. Dylan Goldblatt<br>Senior Lecturer<br>Pilcher 240<br>ngoldbla@kennesaw.edu</td><td></td><td></td><td><a href="../.gitbook/assets/Dylan Blue Green Profile Pic Square.jpg">Dylan Blue Green Profile Pic Square.jpg</a></td></tr><tr><td>Magdalena Constantin<br>Instructor <br>Pilcher 221 mconsta@kennesaw.edu</td><td></td><td></td><td><a href="../.gitbook/assets/Magda_pfp.png">Magda_pfp.png</a></td></tr><tr><td>Susanne Estrella<br>Instructor<br>Pilcher 221<br>sestrell@kennesaw.edu</td><td></td><td></td><td><a href="../.gitbook/assets/Susanne_pfp.png">Susanne_pfp.png</a></td></tr><tr><td>Sabina Carlson <br>Instructor <br>Pilcher 221 scarls14@kennesaw.edu</td><td></td><td></td><td><a href="../.gitbook/assets/Sabina_pfp.png">Sabina_pfp.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Dr. Sabine Smith<br>Professor <br>Pilcher 253 ssmith2@kennesaw.edu</td><td></td><td></td><td><a href="../.gitbook/assets/Capture.PNG.shs.passport.pix.PNG">Capture.PNG.shs.passport.pix.PNG</a></td></tr><tr><td><p>Dr. Shane Peterson</p><p>Associate Professor </p><p>Pilcher 248 speter71@kennesaw.edu</p></td><td></td><td></td><td><a href="../.gitbook/assets/Shane_pfp.png">Shane_pfp.png</a></td></tr><tr><td>Magdalena Constantin<br>Instructor <br>Pilcher 221 mconsta@kennesaw.edu</td><td></td><td></td><td><a href="../.gitbook/assets/Magda_pfp.png">Magda_pfp.png</a></td></tr><tr><td>Susanne Estrella<br>Instructor<br>Pilcher 221<br>sestrell@kennesaw.edu</td><td></td><td></td><td><a href="../.gitbook/assets/Susanne_pfp.png">Susanne_pfp.png</a></td></tr><tr><td>Sabina Carlson <br>Instructor <br>Pilcher 221 scarls14@kennesaw.edu</td><td></td><td></td><td><a href="../.gitbook/assets/Sabina_pfp.png">Sabina_pfp.png</a></td></tr><tr><td>Dr. Dylan Goldblatt<br>ngoldbla@kennesaw.edu</td><td></td><td></td><td><a href="../.gitbook/assets/Dylan Blue Green Profile Pic Square.jpg">Dylan Blue Green Profile Pic Square.jpg</a></td></tr></tbody></table>
 
 ## Faculty Publications
-
-<details>
-
-<summary>Dylan Goldblatt, Ph.D.</summary>
-
-#### Articles
-
-Goldblatt, Dylan. “[The Vitruvian Source of Marvell’s Tortoise in ‘Upon Appleton House, To My Lord Fairfax](https://digitalcommons.kennesaw.edu/facpubs/4580/)’,” _South Central Review,_ 36.3, Fall 2019.
-
-#### Translations
-
-Lerner, Marc. “Competing memories of a Swiss revolt: The prism of the William Tell legend,” in _Rhythms of Revolt: European Traditions and Memories of Social Conflict in Oral Culture_, eds. Éva Guillorel, David Hopkin, Will Pooley. New York, Routledge. p. 90-120.
-
-McDonald, William C. “Seeking Sedechias: Faustus, Trithemius, and the Path from Murder to Magic” in _Wolfenbütteler Renaissancemitteilungen_, vol. 38, p. 3-26.
-
-McDonald, William C. “Leopoldus Iudaeus necromanticus: Concerning an Unpublished, Sixteenth-Century Day-Book Entry on the Execution of Lippold Ben Chluchim in Berlin, 1573” in _Revue des etudes juives_, vol. 176 (3-4), juillet-décembre, p. 371-391.
-
-McDonald, William C. “Gödelmann’s Faustus (1591) Concerning the Fluidity of the Early Transmission of the Adventures of Faustus in Germany,” in _Studia theodisca_, vol. 23, p. 17-32.
-
-McDonald, William C. “Standing atop a Dying World: Observing a Printer's Device of Franz Behem (1500-1582)” in _Emblematica_, vol. 23, p. 1-23.
-
-McDonald, William C. “Ars imprimendi libros initium cepit: Remarks of a Lutheran Pastor, Georg Agricola (1554–1630), Concerning the Origin of the Art of Printing in Mainz.” in _Gutenberg-Jahrbuch,_ vol. 91, p. 177-189.
-
-McDonald, William C. “A Certain Sedechias, a Jew by Religion and a Physician by Profession: On the Long Life of an Anti-Jewish Myth” in _Korot:  The Israel Journal of the History of Medicine and Science,_ vol. 23, p. 197-235.
-
-</details>
 
 <details>
 
