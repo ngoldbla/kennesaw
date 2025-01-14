@@ -9,8 +9,8 @@ description: >-
 
 ## About the Contest <a href="#block-d224abf81e4b47149ecfd6b469d61b6a" id="block-d224abf81e4b47149ecfd6b469d61b6a"></a>
 
-1. Topic and Content: Poems can be about your personal experiences in the world that surrounds you, or your plans and goals for preserving our planet, or anything related to this year's topic: _**Märchen**_**.**
-2. **Deadline: Friday - December 20, 2024**
+1. Topic and Content: Poems can be about your personal experiences in the world that surrounds you, or your plans and goals for preserving our planet, or anything related to this year's topic: _**Märchen und Geschichten**_**.**
+2. **Deadline: March 1, 2025**
 3. Language: German.
 4. Eligibility: Poets of any age and language level may participate. Poems should be submitted without excessive help/corrections from the teacher or instructor.
 5. Judging: Poems will be judged by upper-level students, KSU faculty, and native speakers according to student level and age.
@@ -47,8 +47,6 @@ For questions, or if you’d like resources/ideas, or a mini-workshop in your cl
 The Georgia German Poetry Contest is an annual event and information about prior years is recorded here. This initiative began in the 2008-09 years at KSU and grew to include statewide participation in 2014.
 
 **2024: Feste und Feiertage**
-
-<table><thead><tr><th width="83">Level</th><th width="76">Place</th><th width="330">Student(s)</th><th width="124">School</th><th>Instructor</th></tr></thead><tbody><tr><td>1</td><td>1</td><td>Jenifer Venegas Castillo</td><td><p></p><p>Parkview</p></td><td>Fr. Menosky</td></tr><tr><td>1</td><td>2</td><td>Janina Loethen</td><td>Grayson</td><td>Hr. Schneider</td></tr><tr><td>1</td><td>3</td><td>Cameron Kennedy</td><td>Parkview</td><td>Fr. Menosky</td></tr><tr><td>2</td><td>1</td><td>Emma Cojoc</td><td>Parkview</td><td>Fr. Menosky</td></tr><tr><td>2</td><td>2</td><td>Yemireth Reyes- Nunez</td><td>Parkview</td><td>Fr. Menosky</td></tr><tr><td>2</td><td>3</td><td>Adrian Hartman, Nataly Lopez</td><td>Parkview</td><td>Fr. Menosky</td></tr><tr><td>3</td><td>1</td><td>Omniya Adbi</td><td>Parkview</td><td>Fr. Menosky</td></tr><tr><td>3</td><td>2</td><td>Vania Perez Melgar</td><td>Parkview</td><td>Fr. Menosky</td></tr><tr><td>3</td><td>3</td><td>Joshua Etrew</td><td>Grayson</td><td>Hr. Schneider</td></tr><tr><td>4</td><td>1</td><td>Pari Bakshi</td><td>GSMST</td><td>Hr. Li-Burse</td></tr><tr><td>4</td><td>2</td><td>Parv Mahajan</td><td>GSMST</td><td>Hr. Li-Burse</td></tr><tr><td>4</td><td>2</td><td>Ian Summers</td><td>Roswell</td><td>Fr. Kochurova</td></tr><tr><td>4</td><td>3</td><td>Jordan Johnson</td><td>Parkview</td><td>Fr. Menosky</td></tr><tr><td>5</td><td>1</td><td>Laila de Jong</td><td>GA Tech</td><td>Dr. Kallin</td></tr><tr><td>5</td><td>2</td><td>Judah Giedd</td><td>Parkview</td><td>Fr. Menosky</td></tr><tr><td>5</td><td>3</td><td>Oluwaferanmi Akanda , Eleanor Johnson</td><td>GA Tech</td><td>Dr. Kallin</td></tr><tr><td>6</td><td>1</td><td>Arianna Sakellaris</td><td>GA Tech</td><td>Dr. Kallin</td></tr><tr><td>6</td><td>2</td><td>Kirsten Menosky</td><td>Parkview</td><td></td></tr><tr><td>6</td><td>3</td><td>Jonas Strecker</td><td>South Forsyth</td><td></td></tr></tbody></table>
 
 #### 2023: Umwelt
 
