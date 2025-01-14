@@ -43,6 +43,7 @@
 ## Events
 
 * [🎭 Poetry Contest](events/poetry-contest.md)
+* [🎭 Copy of Poetry Contest](events/copy-of-poetry-contest.md)
 * [🎨 Design Contest](events/design-contest.md)
 * [😎 Summer Camp at KSU](events/summer-camp-at-ksu.md)
 * [🫕 Stammtisch](events/stammtisch.md)
