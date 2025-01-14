@@ -14,7 +14,7 @@ description: >-
 3. Language: German.
 4. Eligibility: Poets of any age and language level may participate. Poems should be submitted without excessive help/corrections from the teacher or instructor.
 5. Judging: Poems will be judged by upper-level students, KSU faculty, and native speakers according to student level and age.
-6. Prizes: Winners will receive a certificate and a \$$ prize.
+6. Prizes: Winners will receive a certificate and a monetary prize.
 
 ## How to Submit <a href="#block-01a7713acd1c4fa0818456fbeb0bb3e9" id="block-01a7713acd1c4fa0818456fbeb0bb3e9"></a>
 
