@@ -27,7 +27,7 @@ Here at KSU, we have a knack for making German fun and engaging! By the time you
 7. Understand German books and media.
 8. Enjoy German literature and link it to their culture.
 9. Know about German culture, its history, and how it's different from the U.S.
-10. Feel ready to use German in many types of jobs.
+10. Feel ready to use German in many types of careers.
 
 Remember, to reach these goals, you've got to dive in and make the most of all the cool opportunities we offer. We're here for you every step of the way!"
 
