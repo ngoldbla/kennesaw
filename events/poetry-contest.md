@@ -23,7 +23,7 @@ Please submit your poem electronically by uploading it as an **attached MS word 
 The upload portal does not record your name or other information. This means it is critical that each submitted **word document include: (1) a poem, and below your poem, please include (2) your name, (3) your grade level, (4) your level in German, (5) your school or university, and (5) the name of your German instructor.** Please do not use the header function in the word file.
 
 {% hint style="info" %}
-[**Submit your poem(s) here**](https://forms.gle/KfggLBAVf7tGvxXa8)
+[**Submit your poem(s) here**](https://docs.google.com/forms/d/e/1FAIpQLSf9emxrIpnv99Yr6_NP7ZVu-1PiMMyFvW23Lp35Ioau7KPQ6w/viewform)
 {% endhint %}
 
 ### Levels <a href="#block-641a2f763147484a939edb9a6fb2bce1" id="block-641a2f763147484a939edb9a6fb2bce1"></a>
