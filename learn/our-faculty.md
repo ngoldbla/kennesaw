@@ -2,17 +2,6 @@
 description: >-
   Meet the KSU German faculty, your guides to an exciting learning journey
   through innovative courses from beginner's language to senior seminars!
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🧑‍🏫 Our Faculty
@@ -21,7 +10,7 @@ layout:
 
 ### Directory
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Dr. Sabine Smith<br>Professor <br>Pilcher 253 ssmith2@kennesaw.edu</td><td></td><td></td><td><a href="../.gitbook/assets/Capture.PNG.shs.passport.pix.PNG">Capture.PNG.shs.passport.pix.PNG</a></td></tr><tr><td><p>Dr. Shane Peterson</p><p>Associate Professor </p><p>Pilcher 248 speter71@kennesaw.edu</p></td><td></td><td></td><td><a href="../.gitbook/assets/Shane_pfp.png">Shane_pfp.png</a></td></tr><tr><td>Magdalena Constantin<br>Instructor <br>Pilcher 221 mconsta@kennesaw.edu</td><td></td><td></td><td><a href="../.gitbook/assets/Magda_pfp.png">Magda_pfp.png</a></td></tr><tr><td>Susanne Estrella<br>Instructor<br>Pilcher 221<br>sestrell@kennesaw.edu</td><td></td><td></td><td><a href="../.gitbook/assets/Susanne_pfp.png">Susanne_pfp.png</a></td></tr><tr><td>Sabina Carlson <br>Instructor <br>Pilcher 221 scarls14@kennesaw.edu</td><td></td><td></td><td><a href="../.gitbook/assets/Sabina_pfp.png">Sabina_pfp.png</a></td></tr><tr><td><p>Dr. Lucy Henry<br>Adjunct Professor<br>Pilcher 221</p><p>lhenry34@kennesaw.edu</p></td><td></td><td></td><td><a href="../.gitbook/assets/henry-sq.png">henry-sq.png</a></td></tr><tr><td>Dr. Aleksandra Starcevic</td><td><p>Adjunct Professor</p><p>Pilcher 221</p><p>astarcev@kennesaw.edu</p></td><td></td><td><a href="../.gitbook/assets/starcevic-sq.png">starcevic-sq.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><p>Dr. Shane Peterson</p><p>Associate Professor </p><p>Pilcher 248 speter71@kennesaw.edu</p></td><td></td><td></td><td></td><td><a href="../.gitbook/assets/Shane_pfp.png">Shane_pfp.png</a></td></tr><tr><td>Magdalena Constantin<br>Instructor <br>Pilcher 221 mconsta@kennesaw.edu</td><td></td><td></td><td></td><td><a href="../.gitbook/assets/Magda_pfp.png">Magda_pfp.png</a></td></tr><tr><td>Susanne Estrella<br>Instructor<br>Pilcher 221<br>sestrell@kennesaw.edu</td><td></td><td></td><td></td><td><a href="../.gitbook/assets/Susanne_pfp.png">Susanne_pfp.png</a></td></tr><tr><td>Sabina Carlson <br>Instructor <br>Pilcher 221 scarls14@kennesaw.edu</td><td></td><td></td><td></td><td><a href="../.gitbook/assets/Sabina_pfp.png">Sabina_pfp.png</a></td></tr><tr><td><p>Dr. Lucy Henry<br>Adjunct Professor<br>Pilcher 221</p><p>lhenry34@kennesaw.edu</p></td><td></td><td></td><td></td><td><a href="../.gitbook/assets/henry-sq.png">henry-sq.png</a></td></tr><tr><td>Dr. Aleksandra Starcevic</td><td><p>Adjunct Professor</p><p>Pilcher 221</p><p>astarcev@kennesaw.edu</p></td><td></td><td></td><td><a href="../.gitbook/assets/starcevic-sq.png">starcevic-sq.png</a></td></tr><tr><td>Dr. Leili Meskarzadeh</td><td>Adjunct Professor</td><td>Pilcher 221</td><td>email forthcoming</td><td></td></tr></tbody></table>
 
 ## Faculty Publications
 
