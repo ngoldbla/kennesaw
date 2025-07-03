@@ -44,7 +44,7 @@ The application link will walk you through all the key steps, but there are a co
 
 Once your application has been reviewed and accepted, your financial obligations are $35 for chapter fees and a lifetime membership.
 
-For questions and more information visit Delta Phi Alpha’s website [http://deltaphialpha.org/](http://deltaphialpha.org/) or contact the KSU chapter advisors: Sabine Smith at [ssmith2@kennesaw.edu](mailto:ssmith2@kennesaw.edu) & Dylan Goldblatt [ngoldbla@kennesaw.edu](mailto:ngoldbla@kennesaw.edu).
+For questions and more information visit Delta Phi Alpha’s website [http://deltaphialpha.org/](http://deltaphialpha.org/) or contact the KSU chapter advisor: Dr. Noah McLaughlin (nmclaugh@kennesaw.edu).
 
 ## Gallery
 
