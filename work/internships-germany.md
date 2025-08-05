@@ -5,20 +5,6 @@ description: >-
   Hamburg, Germany in fields of their choice.
 cover: ../.gitbook/assets/01-h_kynqr40n.jpg
 coverY: 72.84671532846716
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 👷‍♀️ Internships (Germany)

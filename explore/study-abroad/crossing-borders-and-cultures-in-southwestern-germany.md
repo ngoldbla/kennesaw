@@ -1,11 +1,10 @@
 ---
 description: >-
   Enjoy Europe for the first time with this faculty-led program during the KSU
-  Maymester (approx. 11 days after spring semester and before summer term
-  starts).
+  Maymester.
 ---
 
-# 🌍 The Heart of Europe
+# 🌍 Crossing Borders & Cultures in Southwestern Germany
 
 {% embed url="https://www.youtube.com/watch?v=bb4fUQVnZBY" %}
 Trailer for Discover the Heart of Europe

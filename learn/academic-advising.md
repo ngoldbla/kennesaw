@@ -5,20 +5,6 @@ description: >-
   your area of interest.
 cover: ../.gitbook/assets/24D84298-77C4-4CD4-9704-F04B4EBB9CB4.png
 coverY: 227.16058394160586
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # ⏳ Academic Advising

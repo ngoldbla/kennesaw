@@ -1,20 +1,6 @@
 ---
 cover: ../.gitbook/assets/photo-1511497584788-876760111969.jpg
 coverY: 142.68613138686132
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 👷 Internships (US)
@@ -45,7 +31,7 @@ Interviews with Frau Mathilde, Frau Christa, und Frau Lily
 
 ## **Curate and Translate Museum Exhibits** <a href="#block-72559aa2a85546d2baf6a0d59bb4ac60" id="block-72559aa2a85546d2baf6a0d59bb4ac60"></a>
 
-If you are interested in history, museum work, and language study, our collaboration with the [KSU Museum of History and Holocaust Education](https://historymuseum.kennesaw.edu/) (MHEE) may offer you an entry point to your future career! Join us in our project of translating video subtitles, exhibit panels, and audio guides to “[Anne Frank In Translation](https://historymuseum.kennesaw.edu/exhibitions/traveling/anne\_frank\_in\_translation.php),” a multi-media exhibition on one of the world’s most famous women.
+If you are interested in history, museum work, and language study, our collaboration with the [KSU Museum of History and Holocaust Education](https://historymuseum.kennesaw.edu/) (MHEE) may offer you an entry point to your future career! Join us in our project of translating video subtitles, exhibit panels, and audio guides to “[Anne Frank In Translation](https://historymuseum.kennesaw.edu/exhibitions/traveling/anne_frank_in_translation.php),” a multi-media exhibition on one of the world’s most famous women.
 
 <figure><img src="../.gitbook/assets/Anne_Frank_1.jpg" alt=""><figcaption><p>Anne Frank in Translation banner</p></figcaption></figure>
 

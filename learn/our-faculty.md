@@ -6,7 +6,7 @@ description: >-
 
 # 🧑‍🏫 Our Faculty
 
-<figure><img src="../.gitbook/assets/background2-h_k58zqs0n.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Picture1 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Directory
 

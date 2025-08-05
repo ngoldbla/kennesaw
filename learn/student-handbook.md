@@ -2,17 +2,6 @@
 description: >-
   This handbook will help you understand our program's goals, the attitudes and
   practices that will help you meet them, and the available resources.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # 📖 Student Handbook

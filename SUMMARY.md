@@ -25,7 +25,7 @@
 * [🎒 German Convention](explore/german-convention.md)
 * [🏢 Peer Buddy Program](explore/peer-buddy-program.md)
 * [🛂 Study Abroad](explore/study-abroad/README.md)
-  * [🌍 The Heart of Europe](explore/study-abroad/the-heart-of-europe.md)
+  * [🌍 Crossing Borders & Cultures in Southwestern Germany](explore/study-abroad/crossing-borders-and-cultures-in-southwestern-germany.md)
   * [🌍 Study Abroad in Münster](explore/study-abroad/study-abroad-in-muenster.md)
   * [🌍 Study Abroad in Paderborn](explore/study-abroad/study-abroad-in-paderborn.md)
 

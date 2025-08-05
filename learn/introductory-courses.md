@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # 🎓 Introductory Courses
 
 ## Learning German Language <a href="#block-d16d28ff6a874dbcaa00fa0462b39db8" id="block-d16d28ff6a874dbcaa00fa0462b39db8"></a>

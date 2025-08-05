@@ -5,20 +5,6 @@ description: >-
   of global citizens.
 cover: .gitbook/assets/57e7d5464e5aa814ea89857dc22e3-h_k58ze5oo (1).jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # 🦉 Kennesaw German Studies

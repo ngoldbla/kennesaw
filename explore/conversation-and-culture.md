@@ -1,20 +1,6 @@
 ---
 cover: ../.gitbook/assets/Printing3_Walk_of_Ideas_Berlin.JPG
 coverY: 504.94890510948915
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🍿 Conversation & Culture
@@ -136,4 +122,4 @@ Sometimes students of German culture seek out non-fictional clips by and about t
 ### Transportation <a href="#block-1b90b89e7fe74eaf8204e294399498e4" id="block-1b90b89e7fe74eaf8204e294399498e4"></a>
 
 * Why do North American residents often consider walking, cycling, or riding the bus to be so onerous? [On Stroads](https://youtu.be/ORzNZUeUHAM).
-* Why are passenger trains fast in Europe but slow in the United States? [About rail](http://zierke.com/shasta\_route/pages/17willstay.html) in the US vs. Europe.
+* Why are passenger trains fast in Europe but slow in the United States? [About rail](http://zierke.com/shasta_route/pages/17willstay.html) in the US vs. Europe.

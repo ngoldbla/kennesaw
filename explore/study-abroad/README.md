@@ -4,27 +4,13 @@ description: >-
   to share their experiences in Germany and throughout Europe.
 cover: ../../.gitbook/assets/Study_Abroad_Forum_2022.jpg
 coverY: 61.43065693430658
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🛂 Study Abroad
 
 ## Information Sessions
 
-Join a session with Dr. Sabine Smith this semester to discuss upcoming study abroad opportunities and plan for your next trip. Come to ask questions about length of study, course credits, work & study abroad choices, housing opportunities, and stipends.
+Join a session with Dr. Noah McLaughlin this semester to discuss upcoming study abroad opportunities and plan for your next trip. Come to ask questions about length of study, course credits, work & study abroad choices, housing opportunities, and stipends.
 
 {% hint style="success" %}
 Virtual Sessions via tbd (Zoom #tbd: PW:tbd.
@@ -62,8 +48,8 @@ In this video, Ale Schiach and Dr. Sabine Smith of KSU German Studies delve into
 
 ## Featured Programs
 
-{% content-ref url="the-heart-of-europe.md" %}
-[the-heart-of-europe.md](the-heart-of-europe.md)
+{% content-ref url="crossing-borders-and-cultures-in-southwestern-germany.md" %}
+[crossing-borders-and-cultures-in-southwestern-germany.md](crossing-borders-and-cultures-in-southwestern-germany.md)
 {% endcontent-ref %}
 
 {% content-ref url="study-abroad-in-muenster.md" %}

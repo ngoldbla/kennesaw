@@ -1,20 +1,6 @@
 ---
 cover: ../.gitbook/assets/Language Banner OWLLLM.jpg
 coverY: -52.846715328467155
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🔬 Research Projects
@@ -47,11 +33,7 @@ Visit us at [owls.care](https://owls.care) for articles, news, and project updat
 
 {% tabs %}
 {% tab title="About" %}
-<div data-full-width="true">
-
-<figure><img src="../.gitbook/assets/Saga Logo Refined Web.png" alt="" width="300"><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/Saga Logo Refined Web.png" alt="" width="300"><figcaption></figcaption></figure></div>
 
 In 2023 Dr. Goldblatt inaugurated  **Saga** at KSU. This research lab exists to facilitate student success in language education at KSU, where the curriculum emphasizes the learning and retention of high frequency vocabulary in support of rapid second language acquisition.&#x20;
 
@@ -65,11 +47,7 @@ Visit us at [**sagalabs.org**](https://www.sagalabs.org) for more information an
 {% endtab %}
 
 {% tab title="PI" %}
-<div align="left">
-
-<figure><img src="../.gitbook/assets/IMG_8064.PNG" alt="" width="188"><figcaption><p>Dr. Dylan Goldblatt</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/IMG_8064.PNG" alt="" width="188"><figcaption><p>Dr. Dylan Goldblatt</p></figcaption></figure></div>
 
 The Primary Investigator (PI) of the Saga Research Lab is Dr. Dylan Goldblatt.
 
@@ -128,19 +106,7 @@ All KSU Students
 {% tab title="Team" %}
 The Saga Research Lab is pleased to welcome the following First-Year Scholars in AY 2023-24
 
-<div>
-
-<figure><img src="../.gitbook/assets/IMG_8061.PNG" alt=""><figcaption><p>Cheryl Nguyen</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/IMG_8062.PNG" alt=""><figcaption><p>Daisi Sheridan</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/IMG_8063.PNG" alt=""><figcaption><p>Chloe Johnson</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/IMG_8061.PNG" alt=""><figcaption><p>Cheryl Nguyen</p></figcaption></figure> <figure><img src="../.gitbook/assets/IMG_8062.PNG" alt=""><figcaption><p>Daisi Sheridan</p></figcaption></figure> <figure><img src="../.gitbook/assets/IMG_8063.PNG" alt=""><figcaption><p>Chloe Johnson</p></figcaption></figure></div>
 {% endtab %}
 {% endtabs %}
 
@@ -160,7 +126,7 @@ Currently, Dr. Smith is recruiting students for the following OWLS-CARE projects
 
 **Leadership Skills as Career Competencies: Intentional Practice of Communication in Teams** &#x20;
 
-This undergraduate research project explores how intentional practice of communication in teams supports critical leadership skills as career competencies. Student success in navigating project-based teamwork is of great interest to educators and employers. As demographics in local and international work environments diversify, there is need to learn and practice how we communicate with one another to get the job done. Our team/s of undergraduate researchers will prepare for a transnational seminar in Spring 2024 hosted at KSU by researching, proposing, and potentially implementing community-based projects. Project completion in teams will demonstrate the value of understanding and practicing critical communication skills as well as career competencies identified by [ACTFL](https://edtochangetheworld.com/wp-content/uploads/2019/03/21century\_worldlanguagesmap.pdf) and [NACE](https://www.naceweb.org/uploadedFiles/files/2021/resources/nace-career-readiness-competencies-revised-apr-2021.pdf).&#x20;
+This undergraduate research project explores how intentional practice of communication in teams supports critical leadership skills as career competencies. Student success in navigating project-based teamwork is of great interest to educators and employers. As demographics in local and international work environments diversify, there is need to learn and practice how we communicate with one another to get the job done. Our team/s of undergraduate researchers will prepare for a transnational seminar in Spring 2024 hosted at KSU by researching, proposing, and potentially implementing community-based projects. Project completion in teams will demonstrate the value of understanding and practicing critical communication skills as well as career competencies identified by [ACTFL](https://edtochangetheworld.com/wp-content/uploads/2019/03/21century_worldlanguagesmap.pdf) and [NACE](https://www.naceweb.org/uploadedFiles/files/2021/resources/nace-career-readiness-competencies-revised-apr-2021.pdf).&#x20;
 
 #### Arolsen Group: Rethinking the Past – Digital Archives, Restitution and the Culture of Remembrance <a href="#arolsen-group-rethinking-the-past-e2-80-93-digital-archives-restitution-and-the-culture-of-remembran" id="arolsen-group-rethinking-the-past-e2-80-93-digital-archives-restitution-and-the-culture-of-remembran"></a>
 
