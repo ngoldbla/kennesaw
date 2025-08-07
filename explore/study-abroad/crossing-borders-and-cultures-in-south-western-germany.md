@@ -32,5 +32,5 @@ Limited to a total of 18 KSU students as a short-term, faculty-led study abroad,
 
 
 {% embed url="https://youtu.be/qByIXdCUYAU" %}
-Nina discusses the Heart of Europe program during the Maymester
+Nina discusses the Crossing Borders and Cultures in South Western Germany program during the Maymester
 {% endembed %}
