@@ -6,10 +6,6 @@ description: >-
 
 # 🌍 Crossing Borders and Cultures in South Western Germany
 
-{% embed url="https://www.youtube.com/watch?v=bb4fUQVnZBY" %}
-Trailer for Discover the Heart of Europe
-{% endembed %}
-
 ## Overview <a href="#block-2971f3e9fcad4791ba06249ec3a31afa" id="block-2971f3e9fcad4791ba06249ec3a31afa"></a>
 
 * **Expenses**. Students pay for round-trip airfare, tuition (1 course, and federal financial aid etc. applies) and approx. $tbd for the all-inclusive experience package.&#x20;
