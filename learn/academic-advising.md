@@ -29,7 +29,7 @@ The Department of World Languages and Cultures offers a B.A. program in Modern L
 
 ### Frequently Asked Questions
 
-* What credits can I earn during the Maymester (Discover the Heart of Europe)?\
+* What credits can I earn during the Maymester (Crossing Borders and Cultures in South Western Germany)?\
   &#xNAN;_&#x54;his two week program can replace a single course, such as WLC 2209 or GRMN 3390?_
 * What credits can I earn during the Summer Intensive in Münster (WiPDaF)?\
   &#xNAN;_&#x54;his 1-2 month course can replace 1-2 courses, depending on how many months you study there. Those courses can include: GRMN 1001, 1002, 2001, 2002, 3200, 3302, 3303, or, upon instructor approval, other GRMN courses._
