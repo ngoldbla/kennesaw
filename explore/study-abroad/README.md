@@ -48,8 +48,8 @@ In this video, Ale Schiach and Dr. Sabine Smith of KSU German Studies delve into
 
 ## Featured Programs
 
-{% content-ref url="crossing-borders-and-cultures-in-southwestern-germany.md" %}
-[crossing-borders-and-cultures-in-southwestern-germany.md](crossing-borders-and-cultures-in-southwestern-germany.md)
+{% content-ref url="crossing-borders-and-cultures-in-south-western-germany.md" %}
+[crossing-borders-and-cultures-in-south-western-germany.md](crossing-borders-and-cultures-in-south-western-germany.md)
 {% endcontent-ref %}
 
 {% content-ref url="study-abroad-in-muenster.md" %}

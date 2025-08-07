@@ -4,7 +4,7 @@ description: >-
   Maymester.
 ---
 
-# 🌍 Crossing Borders & Cultures in Southwestern Germany
+# 🌍 Crossing Borders and Cultures in South Western Germany
 
 {% embed url="https://www.youtube.com/watch?v=bb4fUQVnZBY" %}
 Trailer for Discover the Heart of Europe

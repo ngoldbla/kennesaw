@@ -2,6 +2,10 @@
 
 * [🦉 Kennesaw German Studies](README.md)
 
+## Beyond the Classroom
+
+* [📅 German Club](beyond-the-classroom/german-club.md)
+
 ## learn
 
 * [📖 Student Handbook](learn/student-handbook.md)
@@ -25,7 +29,7 @@
 * [🎒 German Convention](explore/german-convention.md)
 * [🏢 Peer Buddy Program](explore/peer-buddy-program.md)
 * [🛂 Study Abroad](explore/study-abroad/README.md)
-  * [🌍 Crossing Borders & Cultures in Southwestern Germany](explore/study-abroad/crossing-borders-and-cultures-in-southwestern-germany.md)
+  * [🌍 Crossing Borders and Cultures in South Western Germany](explore/study-abroad/crossing-borders-and-cultures-in-south-western-germany.md)
   * [🌍 Study Abroad in Münster](explore/study-abroad/study-abroad-in-muenster.md)
   * [🌍 Study Abroad in Paderborn](explore/study-abroad/study-abroad-in-paderborn.md)
 
